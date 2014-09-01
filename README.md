@@ -19,7 +19,7 @@ Version de base Firefox OS
 --------------
 Al terminar de Bajar el archivo .zip.
 Deben descomprimir el archivo.
-luego queda una carpeta. esa Carpeta se Vuelve a Comprimir el archivo .ZIP
+luego queda una carpeta. esa Carpeta se Vuelve a Comprimir en un archivo .ZIP
 y ahora si esta listo para seguir con los pasos de Instalacion que mencionamos mas adelante!
 
 Installation
