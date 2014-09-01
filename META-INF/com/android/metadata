@@ -1,0 +1,3 @@
+post-build=ZTE/roamer2/roamer2:4.0.4/IMM76I/eng.zhangchun.20140107.150210:eng/test-keys
+post-timestamp=1389078149
+pre-device=roamer2

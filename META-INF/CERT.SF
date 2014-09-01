@@ -1,0 +1,4270 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: wkv/ojInqOIInS0yOK9wj3UUUXc=
+
+Name: system/lib/libdsprofile.so
+SHA1-Digest: Adv6JRgKumBAhNC7IjJJco2NrOI=
+
+Name: system/bin/xtwifi-client
+SHA1-Digest: mLt/VETFzkQXfc1xMM8HHhSUmmk=
+
+Name: system/fonts/Roboto-Medium.ttf
+SHA1-Digest: +xQ/e7CSpk1twp9alfojyPfbnxc=
+
+Name: system/lib/libchromatix_ov9726_preview.so
+SHA1-Digest: PhrjhxKIJAHkI/0y8Oy4tPv4ubA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/preferences.js
+SHA1-Digest: W0fLfLO8he+kB+c+l0uAzvcQZMI=
+
+Name: system/lib/libchromatix_ov5647_preview.so
+SHA1-Digest: UBuHxRe6mQFFNsZ2Oa9xnhHg9kc=
+
+Name: system/lib/libpowermanager.so
+SHA1-Digest: ZPYq049ovVFkC0K2KCZdB0Kek9I=
+
+Name: system/b2g/dependentlibs.list
+SHA1-Digest: fwBur05DxsPu+tsMmHJWfr0RuDg=
+
+Name: system/bin/netd
+SHA1-Digest: fAC3u7IhOavfRJxZNx0eIicPrZo=
+
+Name: system/lib/libstagefright_soft_aacdec.so
+SHA1-Digest: +hl0DmO7UyVihbl3pQnhHeXtxTU=
+
+Name: system/b2g/dictionaries/en-US.dic
+SHA1-Digest: Rs5ZWB6NHWfAJg7AN8/lH/6ZW/w=
+
+Name: system/etc/security/cacerts/d64f06f3.0
+SHA1-Digest: rJ+XZX/zYV6CfIibccm6aeg3E8Y=
+
+Name: system/bin/schedtest
+SHA1-Digest: gMMti7jz07UjSucH7LHvN8TXEmQ=
+
+Name: system/bin/recovery
+SHA1-Digest: 1N0pM4opAMwaidXXVGL0TRgHbXk=
+
+Name: system/fonts/Lohit-Devanagari.ttf
+SHA1-Digest: eYB4faLxsW6HwVNOslvJBAXAvzI=
+
+Name: system/lib/hw/sensors.goldfish.so
+SHA1-Digest: IKQHaeVho1n9SDxZwHflWvnEoKg=
+
+Name: system/lib/libwmsts.so
+SHA1-Digest: Ypo9CDcI8ml/ng9smEyrLUf+UQo=
+
+Name: system/etc/permissions/qcrilhook.xml
+SHA1-Digest: 3Vkj3ZE81t0VRzOFMnCdDmf3d/Q=
+
+Name: system/etc/dhcpcd/dhcpcd-hooks/20-dns.conf
+SHA1-Digest: P42mHKsicMqE58zm30mob8ETeDI=
+
+Name: system/bin/mm-audio-mvs-test
+SHA1-Digest: y/C+rC4NBP+tbJCnGBIB4uAMDP4=
+
+Name: system/lib/libaudioeffect_jni.so
+SHA1-Digest: Y+I7/H13Fzxxn/zn4YqOfVwRiNg=
+
+Name: system/b2g/libmozglue.so
+SHA1-Digest: 3BsA9cWBeTPLSenwtEu62Hci+bA=
+
+Name: system/lib/libdrm1_jni.so
+SHA1-Digest: rpQRZ0ttj63bC8UhayKcHP9jepc=
+
+Name: system/lib/libnv.so
+SHA1-Digest: 3hlEnrX8siJhghh4qd2NCgIekt8=
+
+Name: system/lib/libvoem_if.so
+SHA1-Digest: HkqXeJRJW1D3YzzjLIR8ZoZ+Fu4=
+
+Name: system/lib/libmmstillomx.so
+SHA1-Digest: O2PWYXZ520ts2EsHuidZjb4yZBk=
+
+Name: system/b2g/libnssckbi.so
+SHA1-Digest: +XAf6kt70E8wPM0kw2Y2j7dvd5s=
+
+Name: system/lib/libgsl.so
+SHA1-Digest: H3kQyT7anbdVaSN24z8p2RxTkRM=
+
+Name: system/lib/libOmxAdpcmDec.so
+SHA1-Digest: VzgLIov6bbMUydgynvAzxn9eha4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-kn.properties
+SHA1-Digest: kEanf5dmWBbPE2mnxL8b7Ltz0HE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-dsb.properties
+SHA1-Digest: +HD7abF0nmXhMyZzFrPVoTLU3NI=
+
+Name: system/etc/init.wlanprop.sh
+SHA1-Digest: EhNvoacl99nBOCUDEBZ85V5G1yo=
+
+Name: system/fonts/SourceCodePro-Black.ttf
+SHA1-Digest: h+SiIG1y/25YKJWfccpiGFIEnZI=
+
+Name: system/xbin/sane_schedstat
+SHA1-Digest: LmtekaWbQSTEcfP9+Rr2JHSxYFg=
+
+Name: system/lib/libOmxAmrEnc.so
+SHA1-Digest: SrlrjgqvkpeXSkMQZbLO/hBg1Ao=
+
+Name: system/lib/libusbhost.so
+SHA1-Digest: 3SQKHgIH86y36txo4IkFbvVcDPc=
+
+Name: system/fonts/AndroidClock_Solid.ttf
+SHA1-Digest: PKbiQAyAy5xWcCKKDeM6mpdw3B8=
+
+Name: system/etc/security/cacerts/81b9768f.0
+SHA1-Digest: Abtfwk1XW6grFct1OuViAxz88dE=
+
+Name: system/fonts/FeuraSans-Bold.ttf
+SHA1-Digest: yEDR/5lubic2ibK1PMrLP/U5BGA=
+
+Name: system/b2g/b2g
+SHA1-Digest: QFtsdZJROBzIBFuzSG0wSRaFBng=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-khw.properties
+SHA1-Digest: g0NCYiNPtvX7FTPF21MZbcIz1Q0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-id.properties
+SHA1-Digest: ned3Bm3h8n7nUXojYJlTV7TI2B0=
+
+Name: system/bin/v4l2-qcamera-app
+SHA1-Digest: J/mt3VpBTg+TyrQG069s1zSRDlw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/2.5.3-crypto-md5.js
+SHA1-Digest: WXRCkoFIfH9GK0ce9d9ModuIWVw=
+
+Name: system/b2g/webapps/notes/application.zip
+SHA1-Digest: qgxf///F36nHhNVw592Zl7Ka/eY=
+
+Name: system/bin/sdcard
+SHA1-Digest: vN8zrfKn4BwGFSQcpJtqAcudXlU=
+
+Name: system/bin/mm-qcamera-daemon
+SHA1-Digest: I9i9oubYgnrc9Hop6otUq3Pn75o=
+
+Name: system/fonts/DroidSansArmenian.ttf
+SHA1-Digest: ZqNiJp/UISxsUJB+Xj4nlWWRPT8=
+
+Name: system/etc/permissions/android.software.live_wallpaper.xml
+SHA1-Digest: AyPpQw5IN0UBn608llm8t77fiPY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/s.gif
+SHA1-Digest: 005IO7Fi1ATC/I6IbI0HZ9mIB20=
+
+Name: system/fonts/SourceCodePro-Medium.ttf
+SHA1-Digest: oQI3B58gVYUB0sEqyCkGxkCvzcA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/templates.js
+SHA1-Digest: +cFFQEg5dfDGO8mnw5phJbRhp4o=
+
+Name: system/bin/mediaserver
+SHA1-Digest: Li549kcbZmeE2B1qahS85d87ezc=
+
+Name: system/usr/keylayout/roamer2_keypad.kl
+SHA1-Digest: WlGDQoFONWYmqYjGIS3KtnXUT8o=
+
+Name: system/etc/security/cacerts/57692373.0
+SHA1-Digest: EskvxfpDUOk0oqxCTSEsSQR+P6g=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-bjn.properties
+SHA1-Digest: ENB7v+1uzmEB7bVk2TunZ6nEbZ0=
+
+Name: system/xbin/rawbu
+SHA1-Digest: +BwnzQOoIrjX2ymJLeQNiVuXL1E=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/mf-cleanuptemplates.js
+SHA1-Digest: WtScnzgG7Op5nLNuj193W5tQkHo=
+
+Name: system/lib/libxml2.so
+SHA1-Digest: xrywpJglVrnilDoIh/fiGXbtByw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/arrow-left-beta.png
+SHA1-Digest: O2rsvmKhfs4aAD2LPW02Y9cErrM=
+
+Name: system/etc/security/cacerts/ed049835.0
+SHA1-Digest: DvbVqcuD1h/TVMgfyfSYy3n1G0Y=
+
+Name: system/usr/idc/sensor00fn11.idc
+SHA1-Digest: eWQ0jJLzEKe3EuOZXsDj7nNH5L4=
+
+Name: system/lib/libjpeg.so
+SHA1-Digest: 5UTm9vKsWoXrTLT7oIis06MMVVM=
+
+Name: system/etc/security/cacerts/a3896b44.0
+SHA1-Digest: Lt7IRY6srSXDk8xe/2MpiiNof+U=
+
+Name: system/etc/security/cacerts/9f533518.0
+SHA1-Digest: 2P7X1cWxI3NzjMsygIUOy6dxMCw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-fo.properties
+SHA1-Digest: eCNzFWW+RMPYf4Wob+cH1oVZlSw=
+
+Name: system/bin/proximity.init
+SHA1-Digest: rFLftFG634T/Qstt9y6wV3gzrU4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-as.properties
+SHA1-Digest: TAKsq5syWRfPO0Jnb5Ys2aqclJY=
+
+Name: system/etc/security/cacerts/7a819ef2.0
+SHA1-Digest: Ig0Zi/k4BqWAYNZWWgJjpKVsDHs=
+
+Name: system/etc/init.qcom.bt.sh
+SHA1-Digest: DPzPk8dqoUcD1kkpzVN7LAX66Lo=
+
+Name: system/xbin/opcontrol
+SHA1-Digest: 33R/H7BosQikeYdzWql3DMnZ42U=
+
+Name: system/lib/libext2_uuid.so
+SHA1-Digest: 8jejUOhGdjczvSATBgTVapVwAnw=
+
+Name: system/lib/libwpa_client.so
+SHA1-Digest: ADho02uokEvTJHUsdcm/Sf8qmIs=
+
+Name: system/bin/linker
+SHA1-Digest: hes0d4f96ITv8vX0oDWxLkzr7Xw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/404.
+ html
+SHA1-Digest: 3S+Lt2hiuVDSrdVAdhzJD0f/vlY=
+
+Name: system/bin/keystore_cli
+SHA1-Digest: 50Fib01hb4x2/9tZtFg2t8uj3ac=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/icons_main_menu.png
+SHA1-Digest: rU+nyVv1QnZ6v/dGAA+CfLN45y0=
+
+Name: system/b2g/run-mozilla.sh
+SHA1-Digest: eh34iDtSaM4Hp2gOOM3hACYUVXQ=
+
+Name: system/usr/srec/config/en.us/models/generic11.lda
+SHA1-Digest: gCp5FAUl5aR0GnFC/tkkamX7ic8=
+
+Name: system/bin/bt_testmode.sh
+SHA1-Digest: U3XclNYOTjZE3U7rcC1iQPQ6y0k=
+
+Name: system/lib/libOmxVp8Dec.so
+SHA1-Digest: dW1mJrcHQfeTG5mzDW1BXT9zWRI=
+
+Name: system/etc/permissions/android.hardware.usb.accessory.xml
+SHA1-Digest: lKVhbliD+5NmYq61xsHEVEZTfsE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/wmf.png
+SHA1-Digest: LrvUkTzqO6W2Y3U/u2ditHbKGWs=
+
+Name: system/fonts/Roboto-Regular.ttf
+SHA1-Digest: jlT03ygs6K+WSYdmRK9fhzTkT+Y=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/button-light-close.png
+SHA1-Digest: 2M70J9fsXjUBm703flHOcyPA3gs=
+
+Name: system/lib/libDivxDrm.so
+SHA1-Digest: qRsnxNg15URKT6YdjZ+9fJg00hE=
+
+Name: system/bin/mtpd
+SHA1-Digest: yuKotDWw1eXIdf1UpOaZpJ6oidY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/mobilefrontend.js
+SHA1-Digest: YGXok0SLv6z3/+0SVwN3P4uXOTM=
+
+Name: system/lib/liblog.so
+SHA1-Digest: vbHn4LgEPUk5O5T/TKZZigHLsTQ=
+
+Name: system/bin/mm-adec-omxQcelpHw-test
+SHA1-Digest: TPURyIaQB6hUaXbtqCjsNX04L+E=
+
+Name: system/lib/libpdapi.so
+SHA1-Digest: cAObN6c4TT2D94S+zc22brc3NaE=
+
+Name: system/usr/share/bmd/RFFspeed_501.bmd
+SHA1-Digest: O4W+YPqIxPg5c57Ny/tsqS1RV8M=
+
+Name: system/etc/security/cacerts/635ccfd5.0
+SHA1-Digest: iOfrRlIkQ9CJR88NZ3FS2RQ+icw=
+
+Name: system/etc/security/cacerts/2e8714cb.0
+SHA1-Digest: pN27bgE5+KCmhIkYxNaJ83eT1rI=
+
+Name: system/b2g/libssl3.so
+SHA1-Digest: 8+HhqLU9tYSL9uWjAOIt58TsDxc=
+
+Name: system/bin/iptables
+SHA1-Digest: SbIr618NUsItxoqBvDkcc0d1htk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/select.png
+SHA1-Digest: vcmPqbDf4VeAkrRhTYdRLyhNISY=
+
+Name: system/xbin/nc
+SHA1-Digest: dooDazLYFhBVk8X7btBqBPu9N3A=
+
+Name: system/b2g/webapps/wikipedia/manifest.webapp
+SHA1-Digest: JeR727MBkQtXyr3AZpkIApSE8yI=
+
+Name: system/bin/mm-adec-omxadpcm-test
+SHA1-Digest: Jd5Rnsxr+/+ZebIBKaPdmSriN2U=
+
+Name: system/etc/permissions/android.hardware.location.gps.xml
+SHA1-Digest: 5BoPvzraABvx8iNcW0s9BCY42l4=
+
+Name: system/lib/modules/mmc_test.ko
+SHA1-Digest: e35xFZ76eVGbWgLrZhCHqSCTzsA=
+
+Name: system/fonts/Roboto-Condensed.ttf
+SHA1-Digest: 3XpIEYGFca0cl+eP7uorR+87o1I=
+
+Name: system/fonts/Roboto-Bold.ttf
+SHA1-Digest: tohglY0iiJgDoncAZyqqWqBz6XM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/ios/toolbar-forward.png
+SHA1-Digest: uqdtP4yQvZAEXI1SNuDSUbkIqHU=
+
+Name: system/xbin/netserver
+SHA1-Digest: zZwU4Ksk12zQM28mTy3eWEt8O/4=
+
+Name: system/etc/security/cacerts/bdacca6f.0
+SHA1-Digest: GIoKYjYZDMCLnDmLcIXSPHiDtmc=
+
+Name: system/b2g/libfreebl3.so
+SHA1-Digest: HbGeRUnKMGZQ5PBgYaV2AXKmPLI=
+
+Name: system/lib/libchromatix_imx074_default_video.so
+SHA1-Digest: UAkAf3UHC4jBNolx3ZaDtmeObdg=
+
+Name: system/xbin/dbus-monitor
+SHA1-Digest: VQgyc34TVrqdr5NV3rONbHd7+qY=
+
+Name: system/b2g/libsoftokn3.so
+SHA1-Digest: B7MYKHDJ57hNQ8QARUFw5BcchYA=
+
+Name: system/lib/libpbmlib.so
+SHA1-Digest: F36Xg2f+PgUgBjyr1n5O5VKStmk=
+
+Name: system/usr/keylayout/syna-touchscreen.kl
+SHA1-Digest: csvODI8TQnlwkGEraYiasXOxAXE=
+
+Name: system/etc/security/otacerts.zip
+SHA1-Digest: Y1tKU7m6TDUMaacy+TVrOqUvKrw=
+
+Name: system/bin/iwgetid
+SHA1-Digest: X6YLwdYS4kOwsVyj2Kkdqz81QNQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/app_history.js
+SHA1-Digest: +T+K+UP7WCetRpqNHu5N+S6IpzQ=
+
+Name: system/etc/security/cacerts/86212b19.0
+SHA1-Digest: qWrS3UkHFWMxfILKNINl2lbaHMU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-it.properties
+SHA1-Digest: RC6rxwJ51g4zEOmXmcD/Ng08Trc=
+
+Name: system/lib/libsrsprocessing.so
+SHA1-Digest: kMA0QjDoypeTqQfihw5V7jyvddc=
+
+Name: system/lib/bluez-plugin/audio.so
+SHA1-Digest: NDRlRSTKUeetvLST4Cf1xHhQB2k=
+
+Name: system/lib/hw/audio_policy.default.so
+SHA1-Digest: DqeojqXIlfQNSKXRkI/kg5gMoyI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/ios/toolbar-sources.png
+SHA1-Digest: QUmOjq0ONS/1OktQ4K3eZIohlmE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-rm.properties
+SHA1-Digest: F/wOAD/+8iRgJNQlf1DRwVlANt4=
+
+Name: qcsblhd_cfgdata.mbn
+SHA1-Digest: TvVaYWzujjPUnez6AiC1LrZK+Ew=
+
+Name: system/lib/libicuuc.so
+SHA1-Digest: VhsKM2XFVtNdcQ1t2VOHI8CubFc=
+
+Name: system/etc/apns-conf.xml
+SHA1-Digest: mSioggg7nnxnrlj+/hQ635HhDQA=
+
+Name: system/usr/keylayout/qwerty.kl
+SHA1-Digest: bEFA2skAr7Gbvbp0UGQQs0ob2kI=
+
+Name: system/lib/libstagefrighthw.so
+SHA1-Digest: E7bpkGZUOWu18pXRnErqlvbQra8=
+
+Name: system/lib/libchromatix_s5k3e2fx_default_video.so
+SHA1-Digest: d4XIbgsIyIh18UnvfVc4pch/eKU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/savedpages.js
+SHA1-Digest: UMwEek5xyYX1LpaM8YLJcLYYf4E=
+
+Name: system/lib/modules/ansi_cprng.ko
+SHA1-Digest: tjj62qWDTlM1yDBAvmiqgQjYHv8=
+
+Name: system/bin/diag_uart_log
+SHA1-Digest: az6CkKfwt75RRbFkg8JXNGrHLs4=
+
+Name: system/lib/libpdsm_atl.so
+SHA1-Digest: ZR7OUdwUNNKlEy1MO8dvvKPg0rU=
+
+Name: system/bin/pppd
+SHA1-Digest: rNhw/PKGTi/4pc7w38stfZYSieY=
+
+Name: system/lib/libtcmd_jni.so
+SHA1-Digest: O4UouHgE05agnUXUkOZU2W9SE5k=
+
+Name: system/lib/libmtp.so
+SHA1-Digest: xFvLF+P2jG0Q0CfJFblbvg5tBs8=
+
+Name: system/lib/libchromatix_ov2720_default_video.so
+SHA1-Digest: X16jY40bGkx6wWO/4UDLxYgBON0=
+
+Name: system/b2g/webapps/marketplace/update.webapp
+SHA1-Digest: xnmhrpfELloinufHM9RC3Uq0Q+4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/adapters/webkit-sqlite.js
+SHA1-Digest: WA97+1iIUtFlvco1qhDrdbo98uI=
+
+Name: system/lib/libmmgsdilib.so
+SHA1-Digest: Vo0c7USMkDMbixjrdRatykJ26eg=
+
+Name: system/lib/soundfx/libvisualizer.so
+SHA1-Digest: Lfnrmf/H9nCwyM2sUPqMEacrC+g=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-nds-nl.properties
+SHA1-Digest: yhXtC2flP1kJpsy9sALK5sWhAIg=
+
+Name: system/lib/hw/audio_policy.msm7627a.so
+SHA1-Digest: +97kRH5FV72OB44gnRpikrcFpJ4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/settings.js
+SHA1-Digest: ntb6XLJLdU/LbvffuqzP6fNFY+w=
+
+Name: system/lib/libstagefright_soft_vpxdec.so
+SHA1-Digest: F6zStN0h5bSmSmituqQTJakCmjE=
+
+Name: system/lib/libOmxH264Dec.so
+SHA1-Digest: sq0qqJkQz6R8DkJ2gEjiS+npnZM=
+
+Name: system/lib/liboemcamera.so
+SHA1-Digest: vtXmy89z1Ljw8bR4GxdK1r9MMxY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-km.properties
+SHA1-Digest: sSmbo+Re6+u5KzXMAyESkxiTAOQ=
+
+Name: system/bin/usbhub_init
+SHA1-Digest: gMB7kz7diwXHALRN0UCNgeRhSVs=
+
+Name: system/usr/srec/config/en.us/dictionary/enroll.ok
+SHA1-Digest: RuJqPgJuq9pkqvVscU5w1p03aas=
+
+Name: system/lib/librpc.so
+SHA1-Digest: CqZBqnm2QKcqDbRZHbMSzLp2FjY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sa.properties
+SHA1-Digest: w1tX9oLjYboisH9VwtHuov6TdRY=
+
+Name: system/lib/modules/evbug.ko
+SHA1-Digest: 41IjJ27IBra1+PDRSKKkEnEscL0=
+
+Name: system/lib/hw/lights.goldfish.so
+SHA1-Digest: Z3JUV49Ly5yh9bLSsHpbavyazO0=
+
+Name: system/usr/keychars/qwerty.kcm
+SHA1-Digest: Z/WKxPvIkR28R++ZAs/Acj5tvbw=
+
+Name: system/lib/libCommandSvc.so
+SHA1-Digest: bLo9OIhGFCWJ1FRDlDyOtqzT1Jw=
+
+Name: system/xbin/daemonize
+SHA1-Digest: GBSFFukN/1bXLnZrQ5qDZIsRvFQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-su.properties
+SHA1-Digest: QQJPY3P/0w4Hd+uJLFSOXN0ysZs=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-bs.properties
+SHA1-Digest: piPGej3fF5h4cb0u+fIFJMSbBn8=
+
+Name: system/xbin/procmem
+SHA1-Digest: Ik7BwZR7QuQmgenFzUv7J3oVcmc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-lus.properties
+SHA1-Digest: WmqIOKI+1ImGyoadoaytm/4c+sg=
+
+Name: system/lib/libOmxCore.so
+SHA1-Digest: 5tZ4K4lmw02eFv0Oz9x0Hox+LiE=
+
+Name: system/lib/libpixelflinger.so
+SHA1-Digest: 58AJ4QT3haKqoBWLsLTa8cDED4A=
+
+Name: system/xbin/procrank
+SHA1-Digest: y7dMCr4l490vcjvI5SD2jjRpLIc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-aeb.properties
+SHA1-Digest: ld7wIHUfCsvR2fhWc6k4c0oZGec=
+
+Name: system/xbin/lmptest
+SHA1-Digest: sRsc/GGxVaqdhorxvxw76RlokbQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ne.properties
+SHA1-Digest: +hjjwciGJrPKGjS4yzAU7+JBLvk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/icon.svg
+SHA1-Digest: pqSs7iNV0TbGjNE1+hrbKuzPb6Q=
+
+Name: system/lib/libmm-omxcore.so
+SHA1-Digest: 0MrPfAo1GoKj697uxw1z1efk/Nw=
+
+Name: system/b2g/plugin-container
+SHA1-Digest: bQBsZNDtp2OteHRpPxekZhKII64=
+
+Name: system/lib/libwms.so
+SHA1-Digest: fOBaK8kCLpF6pXWcWkNAmGtHqVw=
+
+Name: system/etc/ppp/ip-up-vpn
+SHA1-Digest: Uu06ZDkPxqHqOIX4W620Lk4TPKw=
+
+Name: system/lib/libandroid.so
+SHA1-Digest: nFv5Ihjx8vVEv03FprQHMFK7eHM=
+
+Name: system/lib/modules/dal_remotetest.ko
+SHA1-Digest: uSXoTohqIE4FFnYIPkIFXMvLqwc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/hide.png
+SHA1-Digest: OBypkP6NRl2LjZJKPele/PPB0lQ=
+
+Name: system/lib/libcrypto.so
+SHA1-Digest: zMR/I74KTyPXNH13PEwI7b10YTs=
+
+Name: system/bin/mm-adec-omxwma-test
+SHA1-Digest: wg0V+iHWuXKTmbxozdQAyyR6h5Y=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/ios/toolbar-language.png
+SHA1-Digest: 0znRlpY6MeQUyn2mUD8MNheC0KQ=
+
+Name: system/lib/hw/gps.default.so
+SHA1-Digest: fGEc7k1WOSoBVs9kl11rBMCuDCw=
+
+Name: system/etc/security/cacerts/b0f3e76e.0
+SHA1-Digest: 0wOZM5sOi9oFQTTpvoJC+0fuSmc=
+
+Name: system/lib/librecovery.so
+SHA1-Digest: zyuSA4rCGLXPHUSEna69/r+L7p0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/banner.css
+SHA1-Digest: 5dTA+uBr8fOG/23NxDO+9ScqMWM=
+
+Name: system/fonts/Roboto-BlackItalic.ttf
+SHA1-Digest: fOveKKbKn+jj/WJkMeM8KLgJKn8=
+
+Name: system/lib/libext4_utils.so
+SHA1-Digest: uXA0yu9nd5QwCq12pXyWb9qvKYg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/leaflet/images/layers.png
+SHA1-Digest: Ex0sWs8F7MBR2yLlaS6rssGQ4yE=
+
+Name: system/lib/libOpenMAXAL.so
+SHA1-Digest: 2RNTPYOUsnTP+Je7ATcfzNSw2EM=
+
+Name: system/lib/egl/libq3dtools_adreno200.so
+SHA1-Digest: h5neyxQr91FyGbog9VAcc5y8LcE=
+
+Name: system/etc/security/cacerts/1df5ec47.0
+SHA1-Digest: Qxp979sc7+YKhsMsGesH1DjUOJI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-vi.properties
+SHA1-Digest: a6rghrl9SOBBpHBopNzewFX9NYo=
+
+Name: system/lib/libmmipstreamaal.so
+SHA1-Digest: 79d1fUS3SixS1riCNXToriumIns=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/page.js
+SHA1-Digest: sYch4hV49tVUoblAazFrZxEt8io=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-zh-hans.properties
+SHA1-Digest: Cz+uK6iln1qsCutM3KXo3hP31gw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sv.properties
+SHA1-Digest: HzjLB33zNRdy/zRbMv0m6FGeYZM=
+
+Name: system/etc/dhcpcd/dhcpcd-hooks/95-configured
+SHA1-Digest: UuxXgHDT/qeCzv2600hSxnB9s5k=
+
+Name: system/usr/keylayout/Vendor_054c_Product_0268.kl
+SHA1-Digest: iwHzEwj5WX7NvOdertR+r9nuRsk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/settings.js
+SHA1-Digest: R8mwNqWJQfdpu2Z/MZ9LX+5E49U=
+
+Name: system/b2g/libnspr4.so
+SHA1-Digest: 3JDctN7MIhgBlIzTRo/VyWGOvRc=
+
+Name: system/etc/security/cacerts/85cde254.0
+SHA1-Digest: vcr8bqyL/bCXu4bxqRiOyJ8rkls=
+
+Name: system/lib/libgenlock.so
+SHA1-Digest: tF7vvtjRcjb9GfH15i3PyqdDdYg=
+
+Name: system/bin/rild
+SHA1-Digest: FD0beo53EXKRmp2wrB9hcJKijoM=
+
+Name: system/lib/libOmxAmrRtpDec.so
+SHA1-Digest: Xt7HgrlajjLTVrH1o/gdHJFvXKs=
+
+Name: system/bin/svc
+SHA1-Digest: /1od6413nm4+hNXDHR4zepttND8=
+
+Name: system/etc/wifi/wpa_supplicant.conf
+SHA1-Digest: 20tfvTtUvNMxWdnsQrE76QXIoTc=
+
+Name: system/usr/idc/msg2133.idc
+SHA1-Digest: 3ipd2c1vgF7/4MGu16eeHH9i2cQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/require.js
+SHA1-Digest: AWb/lkCl1j3vAlLCX4uqQhoYdyw=
+
+Name: system/xbin/bttest
+SHA1-Digest: Y8Dn0J7l1byTDzpKw/6PgXoVgYc=
+
+Name: system/etc/security/cacerts/2fb1850a.0
+SHA1-Digest: tpQ/ebm+s27cmkePsnMxlzdMwcc=
+
+Name: system/lib/libiprouteutil.so
+SHA1-Digest: NRg41cTxZFE93O7wSlw9nWmFrD4=
+
+Name: system/b2g/webapps/sms.gaiamobile.org/manifest.webapp
+SHA1-Digest: bvZgDwIH8sIcQ7CJ+4Zncvv1Hv4=
+
+Name: system/usr/srec/config/en.us/grammars/boolean.g2g
+SHA1-Digest: IaXNuE4WOK1Xeb/yfielIx9Z4P8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-fur.properties
+SHA1-Digest: /ef1YBQsaNSSQcK/+vD2JU2MOUg=
+
+Name: system/bin/abtfilt
+SHA1-Digest: aTCmIyaRPIlrtsXk9QEtaQ6pTnA=
+
+Name: system/lib/libxtwifi_ulp_adaptor.so
+SHA1-Digest: ieTck5P8L3JptGPAVlJtE4ADoiA=
+
+Name: system/bin/iwpriv
+SHA1-Digest: lnkCjqJ2DOvZZs92Oi5wOa2rKlg=
+
+Name: system/lib/libcommondefs.so
+SHA1-Digest: rdhh46kRUR4YkURsM+dEACeLLFA=
+
+Name: system/bin/showlease
+SHA1-Digest: 3xby9JiYFHYfkYbarclp7uR5O38=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/jquery-1.7.1.min.js
+SHA1-Digest: Aa4J1qCDOh2KymVx0TFattb3lxo=
+
+Name: system/b2g/webapps/browser.gaiamobile.org/manifest.webapp
+SHA1-Digest: RG5YAW3eggc2jvg0FzG9CS4mBp8=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c299.kl
+SHA1-Digest: N64rO5ir6UJhDLlL6vtA277M/n0=
+
+Name: system/lib/libimage-jpeg-enc-omx-comp.so
+SHA1-Digest: 5obwo0FOXwZ3klW7vCJxHmnAb+E=
+
+Name: system/lib/libqdp.so
+SHA1-Digest: U5BzOlg80fBb/vxQdlH2WhOs7rI=
+
+Name: system/b2g/webapps/settings.gaiamobile.org/manifest.webapp
+SHA1-Digest: hZPzdUCZ6hE8Khl9eG++otiX7u8=
+
+Name: system/lib/libmediaplayerservice.so
+SHA1-Digest: 1W8nPvpPUU8zDQflrLJ1OklLs4c=
+
+Name: system/lib/libsensorservice.so
+SHA1-Digest: spGdJaMwCEFwPAYZ9Fhnbwgi0xA=
+
+Name: system/lib/libEGL.so
+SHA1-Digest: qBMJ8JB0r9copZPAkWd/UpnZHso=
+
+Name: system/lib/libdsucsd.so
+SHA1-Digest: 77LNxTCQKiodQsJ6ZAUyNg746I8=
+
+Name: system/etc/init.qcom.sdio.sh
+SHA1-Digest: ly82XUqfknEo5oVAGwnf2yI/uPc=
+
+Name: system/usr/idc/atmel_mxt_ts.idc
+SHA1-Digest: rSm+RRARwW4reHelMhr7Vwd6TGs=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-hi.properties
+SHA1-Digest: OF4sb85Nvt/tzE6Emr2p0/BGvJU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sah.properties
+SHA1-Digest: U1vmANllBIVkeiGr9fek1LXV6NA=
+
+Name: system/lib/libvideoeditorplayer.so
+SHA1-Digest: Eszdu4itAs2D6HwY26B2trdymdQ=
+
+Name: system/lib/libchromatix_mt9e013_video_hfr.so
+SHA1-Digest: we1T4mjvX1e8ZuqiVnRS/bOe1aY=
+
+Name: system/lib/libdrm1.so
+SHA1-Digest: QuY+sGCzbRcaxrrm6j8bdsJAIP4=
+
+Name: system/lib/libOmxEvrcEnc.so
+SHA1-Digest: Srtdwg7eOI2qDZYUBxikuv2gUkY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-eo.properties
+SHA1-Digest: qcSgv21Y9DS+USqYmxY6MO6XxZM=
+
+Name: system/etc/security/cacerts/1e8e7201.0
+SHA1-Digest: KqgVoWSCtWsuVVi9KeH1TTJ4rlU=
+
+Name: system/bin/iwmulticall
+SHA1-Digest: p5r9cT5Nke4lF8zC/NBl/LN4Pnw=
+
+Name: system/etc/security/cacerts/46b2fd3b.0
+SHA1-Digest: ncfFJuS33zLgLepbQtRcOp1nNTU=
+
+Name: system/bin/gpu_dcvsd
+SHA1-Digest: yaTj4w78Q5G+3C9DXaGmNrvrR/4=
+
+Name: system/b2g/defaults/pref/user.js
+SHA1-Digest: 0BuKkqVOygNTN0SKjC9MzSd74ZI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/modernizr-2.5.3.min.js
+SHA1-Digest: wKH3daP0zZ7FEo5nTGxPZunMWOY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/icon.png
+SHA1-Digest: mlyv1HmY1Fut2q31zLaVy57B9DE=
+
+Name: system/etc/firmware/roamer2_PR1115996-s2202_Truly_32323038.img
+SHA1-Digest: 8M2pt1+srdjrpiMa06xmhoGoUlw=
+
+Name: system/lib/libping_apps.so
+SHA1-Digest: U1BeDFantlgaFH2jjE/tDTbz33I=
+
+Name: system/lib/libstlport.so
+SHA1-Digest: ujOA2mkKkKHwLbJ1k/kxnl3iu3I=
+
+Name: system/etc/security/cacerts/7d453d8f.0
+SHA1-Digest: cA140QKiXig4ceJ7hyHJpuo224E=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/plugins/query.js
+SHA1-Digest: v1vAnIGuVs8KIWtrPtVWs4LynZM=
+
+Name: system/etc/hosts
+SHA1-Digest: eK7U5SmrOpeCSrjJ5BsrWKeuSoE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-tly.properties
+SHA1-Digest: p9LkHLAMV++K2Zp922OqnlK2/NU=
+
+Name: system/etc/permissions/android.software.sip.voip.xml
+SHA1-Digest: qPho8aR6qQ+pK8ybcLgZiHGkyEo=
+
+Name: system/b2g/webapps/m.here.com/update.webapp
+SHA1-Digest: aNipnXmmIOvyr1oPex7yhy8NpwA=
+
+Name: system/lib/libjnigraphics.so
+SHA1-Digest: aW5VjVyvXmL8E1vPbsflfcT61w4=
+
+Name: system/lib/libstagefright_foundation.so
+SHA1-Digest: 9Iab/UsNmnGe3xtyIbqJVA8Gd6g=
+
+Name: system/bin/ping
+SHA1-Digest: QHVR21vFkg1DRurO6Ls2qmisoww=
+
+Name: system/b2g/webapps/music.gaiamobile.org/application.zip
+SHA1-Digest: CMxKPfQxlxJ8QFChmniYG45c1u4=
+
+Name: system/etc/security/cacerts/add67345.0
+SHA1-Digest: BBZuvZg7SZem+qk/+qhuNIjw13A=
+
+Name: system/lib/libstagefright_omx.so
+SHA1-Digest: CvCl4U5Tfhr2vV8yNNQ59uE7jeY=
+
+Name: system/lib/libsysutils.so
+SHA1-Digest: O7LT6TG5HHlQce/tpLOMIKvTmJc=
+
+Name: system/bin/mm-audio-alsa-test
+SHA1-Digest: Ofl2Bsba9gEQvG7UrpS0ON0Ca50=
+
+Name: system/lib/bluez-plugin/bluetooth-health.so
+SHA1-Digest: /yutgXgziZGu+VsjrsohVgiJ41o=
+
+Name: system/usr/idc/atmel-touchscreen.idc
+SHA1-Digest: z74i4jc/bQGl/v4ZX8DSXY4pCBY=
+
+Name: system/lib/libstagefright_soft_amrdec.so
+SHA1-Digest: FYegx8HqiVtToI54hAwM9hRTfmA=
+
+Name: system/usr/srec/config/en.us/grammars/VoiceDialer.g2g
+SHA1-Digest: 21N4fh2hVhlNcfXrfiS9bXjEAfE=
+
+Name: system/xbin/directiotest
+SHA1-Digest: T8B+eU+B35MagJfKChXGM/dYPLA=
+
+Name: system/lib/libgps.utils.so
+SHA1-Digest: D+4JN3iMeWGOgMJqHg0FPo3vD7U=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/splash.png
+SHA1-Digest: ZGcPJA+2jfRGk8XwqrBIzg0CsVA=
+
+Name: system/lib/libwiperjni_v01.so
+SHA1-Digest: bZmYCzVdFhNLqIRTm4IjNgA705Y=
+
+Name: system/etc/security/cacerts/a0bc6fbb.0
+SHA1-Digest: V0mHojd9hDTNmkRMn2gBBUc//E4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ba.properties
+SHA1-Digest: LV4Jy8l/AVCMSHfe9nRNKudP4IQ=
+
+Name: system/bin/hciattach
+SHA1-Digest: j62q/yl0F8V4QLUcjWA6J4QtWfc=
+
+Name: system/usr/keylayout/7k_handset.kl
+SHA1-Digest: PSi0mzHE8J0Ip+Rl8wkArk1Nwvw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/filepage.css
+SHA1-Digest: QZdqPGVFkVIkIsZTMFSgJD6E/5M=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/ios/toolbar-settings.png
+SHA1-Digest: aoh9g/Thr36Im6HQd+mJTp9eOjE=
+
+Name: system/xbin/tcpdump
+SHA1-Digest: X3Zrh9+LHDkwq5reZboH90hrZZM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-avk.properties
+SHA1-Digest: ySsfc8bKl7S206GV8CIlzFAVQ6M=
+
+Name: system/etc/security/cacerts/cf701eeb.0
+SHA1-Digest: YIKVSOwnG2XtUxSGW9n6w3exUq4=
+
+Name: system/etc/security/cacerts/67495436.0
+SHA1-Digest: ZVlG1by+ahNsQ6Uv4zmahjj+oCw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ilo.properties
+SHA1-Digest: 8D8eYyBPK6iIotw5bhrgpXiF/ZM=
+
+Name: system/b2g/webapps/camera.gaiamobile.org/application.zip
+SHA1-Digest: 2y8WGAiLG5Gu2afzriGmRqRcroo=
+
+Name: system/lib/libmm-adspsvc.so
+SHA1-Digest: wto68o70xMNDxBGtlVAiFKz2BKM=
+
+Name: system/usr/share/bmd/RFFstd_501.bmd
+SHA1-Digest: C0S/D/gyoOXBfe27iJkWBkJGc28=
+
+Name: system/b2g/platform.ini
+SHA1-Digest: B4n8pakygeQb+dZW3LAEsKZhEJs=
+
+Name: system/lib/libext2_e2p.so
+SHA1-Digest: jYeZkXoZUz+V7cjolDj5BrCUADk=
+
+Name: system/usr/srec/config/en.us/baseline11k.par
+SHA1-Digest: LAxT4ug59UO7cj2ezMGlctM/8iM=
+
+Name: system/bin/monkey
+SHA1-Digest: WfWmGLdcQp2C3BlQ/nd56hRSN4M=
+
+Name: system/b2g/webapps/system.gaiamobile.org/manifest.webapp
+SHA1-Digest: o5N3qzaO3VPVWG3nC9ZBZyfPOVA=
+
+Name: system/etc/security/cacerts/17b51fe6.0
+SHA1-Digest: TF8DP16R0P3dLAbPoykKOGfTFrE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/mf-cleanuptemplates.css
+SHA1-Digest: iJWW5vderssLNfj9QP1LsDZa1ZI=
+
+Name: system/bin/check_prereq
+SHA1-Digest: LfOcxzqHED3BBbqKqAg8xddDPIk=
+
+Name: system/b2g/webapps/bluetooth.gaiamobile.org/application.zip
+SHA1-Digest: VOM1+TjwuibvurAvYB0atVsAzsQ=
+
+Name: system/bin/mm-vdec-omx-test
+SHA1-Digest: NGuBaPqFjwn+6h8lBAIU4C+GNT0=
+
+Name: system/lib/hw/camera.goldfish.so
+SHA1-Digest: 5Xp7pPxC5gelPGlckh1stifNmlw=
+
+Name: system/bin/InputDispatcher_test
+SHA1-Digest: m37/2H/zjTuodLstvH1dzbA+3xg=
+
+Name: system/lib/libchromatix_mt9p012_preview.so
+SHA1-Digest: SlmwgrbHne61NUoXca53DAoyWQ0=
+
+Name: system/lib/libril-qc-qmi-1.so
+SHA1-Digest: MuPigBnUSb4edE+FtYfdnJDy/8I=
+
+Name: system/lib/libnl_2.so
+SHA1-Digest: a/ZPbm4jwOT/WyPRfo6CphAl1TI=
+
+Name: system/bin/mm-jpeg-enc-test-client
+SHA1-Digest: MTHQ2yIZ1WggZ16cC33t+9y3+eQ=
+
+Name: system/fonts/DroidSansThai.ttf
+SHA1-Digest: qrdCj47VL3j4/yEIwxqV+BM3IM0=
+
+Name: system/etc/security/cacerts/bcdd5959.0
+SHA1-Digest: wUXicMukZB4UlU9/xSoCKEwh6jo=
+
+Name: system/etc/security/cacerts/119afc2e.0
+SHA1-Digest: juMSLklsnjDd89OdzOhmdhh86b0=
+
+Name: system/lib/libgstk_exp.so
+SHA1-Digest: n0kLTvZuvQd0kTGDyDoc9RTmwVM=
+
+Name: system/b2g/webapps/wikipedia/cache/manifest.appcache
+SHA1-Digest: LaaJhScAKw05PJmsBKz53xXDg50=
+
+Name: system/bin/keystore
+SHA1-Digest: Ue6LZwaVpxyxx711AFMm/fEuUMI=
+
+Name: system/bin/dun-server
+SHA1-Digest: /H+Ge96X/gNsMzagYsV0ex4ln7A=
+
+Name: system/bin/mm-aenc-omxaac-test
+SHA1-Digest: ZnH7IJHAJLXnLKoymwdPGshh0WE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-da.properties
+SHA1-Digest: uzU2AkTWiUs6lsGKShErJSFpxco=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/mf-navigation-legacy.css
+SHA1-Digest: +ONmCAr1yINN6LUyQBg4GT45UR8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/toggle.js
+SHA1-Digest: Py294OogxrfJLaSdjWWHnUel/GU=
+
+Name: system/bin/init.btprop.sh
+SHA1-Digest: vKbzogy/+mpi0cvtprrEQTvG4gA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/contact-us.css
+SHA1-Digest: AxA1o8Kw6i7aAzZ5vuJfomTUvDY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/references.js
+SHA1-Digest: FAebQQGT3AU0b+8nF+S04ugsM1w=
+
+Name: system/b2g/webapps/email.gaiamobile.org/application.zip
+SHA1-Digest: p1uqITr2ngkONqUM3MHrrQHE3Rk=
+
+Name: system/fonts/Clockopia.ttf
+SHA1-Digest: +vgYgkUemnpjfwZ99j4TWmseawE=
+
+Name: system/lib/libstagefright_amrnb_common.so
+SHA1-Digest: z1xLJt33CjTJVek091nQfX5dvXI=
+
+Name: system/b2g/webapps/browser.gaiamobile.org/application.zip
+SHA1-Digest: B3pictike7VJ46nIktHk3C2+xQ0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-lad.properties
+SHA1-Digest: uY2nQT/WWO0OMQF2Q+JZMzCKY5I=
+
+Name: system/xbin/su
+SHA1-Digest: LF+vYDtcIRLfMgVwQsEx+hih4mQ=
+
+Name: system/lib/libfilterfw.so
+SHA1-Digest: gV9XZwBThMIH6sMj62bcPDU9bpM=
+
+Name: system/b2g/webapps/m.here.com/application.zip
+SHA1-Digest: KKpS9bx8jvXfIO+6lvTQtHNeKsc=
+
+Name: system/etc/dhcpcd/dhcpcd-run-hooks
+SHA1-Digest: wlZAlg8sJGqNf67T6lXIETPzJxk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/simple.css
+SHA1-Digest: iWUuszWXnB2TPWR0LePUtA3tVIg=
+
+Name: system/wifi/cfg80211.ko
+SHA1-Digest: h8l22cjt1PjrATMvmqJKlWh2BVQ=
+
+Name: system/etc/security/cacerts/e7b8d656.0
+SHA1-Digest: bCEbhSbq/GjuAX/qoGBoN21YJuo=
+
+Name: system/lib/libcutils.so
+SHA1-Digest: Cpgy4ZburEqQnjSYqUo7ypOQ2ko=
+
+Name: system/lib/libmmparser.so
+SHA1-Digest: iAE/pzNwI/GrcCDme5112CKmlxs=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-hu.properties
+SHA1-Digest: UuugFP3TtbXK96E83LvJRRQsr0s=
+
+Name: system/bin/wpa_supplicant
+SHA1-Digest: sAP/D3uqUTsIVYrCO1Z1oPIE8DE=
+
+Name: system/usr/idc/syna-touchscreen.idc
+SHA1-Digest: jsR1DSzNSciLuf1LLJRTBAILpU0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-arn.properties
+SHA1-Digest: rSNatcNOHtz4MhGoG08XhOonINM=
+
+Name: system/lib/libaudioeq.so
+SHA1-Digest: wuIAoFMoI5jgLSgDR8O3NbAfFMc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-frp.properties
+SHA1-Digest: JqZ/M9EzLutW/v72Dz3gcucgL5Y=
+
+Name: system/bin/iwevent
+SHA1-Digest: 9n7gq0xnnwUD3J87AP9fxDxTPeY=
+
+Name: system/lib/libril.so
+SHA1-Digest: 8priRTuGVsD0Bz+GHE+OCTownI8=
+
+Name: system/etc/dbus.conf
+SHA1-Digest: d6cc2Bt6sxy6Yzv4CTZl1X6sweY=
+
+Name: system/bin/bu
+SHA1-Digest: ssJV8rKixa6InHKnBAhyFrsGwa8=
+
+Name: system/bin/b2g.sh
+SHA1-Digest: D7tdLXInySG80amQLxMn2DBi0rE=
+
+Name: system/xbin/oprofiled
+SHA1-Digest: vY9xbtoOjjW25Yrs5yV3vN53A+0=
+
+Name: system/bin/ZipFileRO_test
+SHA1-Digest: 8pthvanXWyTSSOErpw4UMrNAJvo=
+
+Name: system/lib/hw/audio.primary.default.so
+SHA1-Digest: //kQV8jmrqwYAkPfSlwUIIgs6Ro=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-zh-hk.properties
+SHA1-Digest: bnj2N/D0JiRWGzmG6mRA7bRKskE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ru.properties
+SHA1-Digest: raJTXCyHS4VF1QzJ+PW8NEbqJSw=
+
+Name: system/lib/libnetutils.so
+SHA1-Digest: fstpJMAuVTmAyyCzTqqBNPRjLy0=
+
+Name: system/lib/libtcmd_pipe.so
+SHA1-Digest: vnjKUkF9dp5LcyCsOBvALd3+Ocg=
+
+Name: system/bin/sdptool
+SHA1-Digest: H9dy1AE4e98ZLp4A2Iofz+4Kk+E=
+
+Name: system/usr/srec/config/en.us/baseline.par
+SHA1-Digest: M4pck9N5JkEe9alJyTrxUpaKRd8=
+
+Name: system/bin/test_gemini
+SHA1-Digest: lktrui8PygSfk2VkCEt19Ly1mZs=
+
+Name: system/lib/libimage-omx-common.so
+SHA1-Digest: IsRAPLxgnJVfqEaHmwW/6Sb9UK4=
+
+Name: system/lib/libulp2.so
+SHA1-Digest: xAlmNo4rkID8dLfb+kNdKSfnBzY=
+
+Name: system/etc/security/cacerts/23f4c490.0
+SHA1-Digest: swYiy1QiVyTMlhy6V0v0qzD1Ty0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-scn.properties
+SHA1-Digest: +QIi/0a0gjols+AKBaOAXDyUg9o=
+
+Name: system/lib/bluez-plugin/input.so
+SHA1-Digest: P0K6pjNyFq7EGmzsbQTXRQq8qTM=
+
+Name: system/lib/modules/gspca_main.ko
+SHA1-Digest: bWFzzGmzJCbdnD8ePbiYyURMFyY=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_location/libqc_b2g_loc
+ ation.so
+SHA1-Digest: yvTly2Sku6CyrQiDCuxn+ceP49Q=
+
+Name: system/fonts/FeuraSans-Regular.ttf
+SHA1-Digest: JFetUSD78sS3CYI6ecOm66t+jS8=
+
+Name: system/fonts/SourceCodePro-ExtraLight.ttf
+SHA1-Digest: twKBaFO7RkDKo3Kyyzzms2D74+Q=
+
+Name: system/bin/mm-adec-omxmp3-test
+SHA1-Digest: MlPGeflHjFYHVZFsbr6M3UM235E=
+
+Name: system/b2g/removed-files
+SHA1-Digest: 3wlzZCTaIcv3FaXhS9qoNYnbRFs=
+
+Name: system/bin/ftmdaemon
+SHA1-Digest: bN2OdcWHOYBonfrkfxrnlD7v8jw=
+
+Name: system/lib/libOmxWmvDec.so
+SHA1-Digest: BaLgfyNK7UjS9tQimAycbcVkmiA=
+
+Name: system/bin/mm-qcamera-test
+SHA1-Digest: sHU9PdNkmnzWfpPhL6BdQMcn+cc=
+
+Name: system/bin/am
+SHA1-Digest: JU7gkgpcGs2BY+uIS5nNG1/nRtY=
+
+Name: system/b2g/libxul.so
+SHA1-Digest: lUhF/nYq3I5w1dLpus6Q4B1tUYo=
+
+Name: system/etc/security/cacerts/4e18c148.0
+SHA1-Digest: AC2kb6vDxMM9PpuxWWSvwbGQ+fo=
+
+Name: system/etc/bluetooth/auto_pairing.conf
+SHA1-Digest: 61U6MXUA2Ng4CBFe7zJ8gJHdFpA=
+
+Name: system/etc/permissions/qcnvitems.xml
+SHA1-Digest: PpJKYCYLyA3agVQGkXF1GMIBpAs=
+
+Name: system/etc/security/cacerts/ff783690.0
+SHA1-Digest: uwa7DANnTSVTBT+3cPJVrv4kphk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/header.css
+SHA1-Digest: RMHpHOaIY+g6+B9QFf/rztuGZjM=
+
+Name: system/lib/libstagefright_soft_h264dec.so
+SHA1-Digest: Syfm8CNGUXid4CbGG+CRzVXMZLY=
+
+Name: system/bin/mm-audio-native-test
+SHA1-Digest: /rMm+WiwR7nNpj3SUinK2QHVEDw=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_ril/libqc_b2g_ril.xpt
+SHA1-Digest: 7G0j8jX3ErQ3rV+bDaIDmRsDt8A=
+
+Name: system/lib/libOmxIttiamVenc.so
+SHA1-Digest: 7utPAmhpnk7pdk17IMRVjMszViQ=
+
+Name: system/lib/libssl.so
+SHA1-Digest: wxrlkpSk8doH/AAQuZ37JJ1ZAqk=
+
+Name: system/bin/radish
+SHA1-Digest: jc050bpFf3YoXWcLYEylaExYq6o=
+
+Name: system/bin/bluetoothd
+SHA1-Digest: sPP9oxovQXmPIpY36p0VB52jSVo=
+
+Name: system/fonts/SourceSansPro-ExtraLight.ttf
+SHA1-Digest: qvQ71B6TS3IMhiAxBz/y4XzoMQ4=
+
+Name: system/etc/security/cacerts/9d6523ce.0
+SHA1-Digest: vE5/LZQwY6jpSaq4Tnfywc0Nf6Q=
+
+Name: system/etc/qosmgr_rules.xml
+SHA1-Digest: JROkBHfofsXsYANGXPxYATQVSm4=
+
+Name: system/lib/libbson.so
+SHA1-Digest: Qin6Vee7yd1VSXeSBLTb0fa9j8s=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/external-link-ltr-icon.png
+SHA1-Digest: 90Bj1p2/YtGp0rfx4G89zL7QWt4=
+
+Name: system/lib/libsc-a2xx.so
+SHA1-Digest: YLApTb3aGl+YsJLYLusSY8beJ0M=
+
+Name: system/lib/libbluetoothd.so
+SHA1-Digest: Z8l0GgFSJ8u1+fJptbiRvl5QUbw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/ccommons.png
+SHA1-Digest: 144UlG2toNCD0onNLmiQFuG8oDQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/kindle.css
+SHA1-Digest: nU+MioZNfnIIXZX6EzuvqRiSkq8=
+
+Name: system/lib/libchromatix_imx074_preview.so
+SHA1-Digest: 1cXWUvpHgbcDhJw3fsOhC+0stXE=
+
+Name: system/fonts/Roboto-Thin.ttf
+SHA1-Digest: 5lvy0QHFPkcY39VqDoW1zuOSFqw=
+
+Name: system/fonts/DroidSansHebrew-Bold.ttf
+SHA1-Digest: TuR/SCZHlNxWFl5ftrhCebjvNrI=
+
+Name: system/lib/libchromatix_mt9p012_km_default_video.so
+SHA1-Digest: FP0Q/kMUquToa+PPvgYh4L2cY+Y=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/mf-settings.css
+SHA1-Digest: yR8MycHNWH72DM4kgTYO0z7Bn2c=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/arrow-left-2.png
+SHA1-Digest: A9TGaqwUzGFU+B4N1WyhKyfq25c=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/erro
+ r.html
+SHA1-Digest: WosnojUMB8ztdNPxvPB/nnFwEA0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/blank.gif
+SHA1-Digest: pi68TjazxvYjYMQQnivu+mkW2Ik=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ defaults.css
+SHA1-Digest: VFwef79vIHTEyIIx934KoI4Yfzs=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/select.png
+SHA1-Digest: 9ojGmLP6IlkOQAhOiJpi7tFk5GI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/search-big.png
+SHA1-Digest: x/cnv4rDpk+DBsYme9IHrSw3k1o=
+
+Name: system/usr/keychars/Generic.kcm
+SHA1-Digest: jJUZf8ivAJ4eFAN1q9E9WwXGVrQ=
+
+Name: system/lib/soundfx/libbundlewrapper.so
+SHA1-Digest: CtA8T0YrAQ33z0XMzxuNP+KoMtQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/psp.css
+SHA1-Digest: B45520dLllydSYxCWiy02j4Ya+Y=
+
+Name: system/b2g/webapps/gallery.gaiamobile.org/manifest.webapp
+SHA1-Digest: ZrhpfLodYx1WCCG8cvPeje04Rs0=
+
+Name: system/usr/idc/ft5x06_ts.idc
+SHA1-Digest: Xe/RgvQR28tMTQTtphKiUjf+/ug=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ckb.properties
+SHA1-Digest: Np8ZoVKOUJ6dYQOCVRYc0J9+rrA=
+
+Name: system/xbin/hcitool
+SHA1-Digest: B4GN/My3AxJDAMU+FKgfcLAJwlk=
+
+Name: system/lib/hw/gralloc.default.so
+SHA1-Digest: mkulVFAD6PoRl5npMq0fFTbzzBE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/urlcache.js
+SHA1-Digest: 2kpaZ+QrsiKp6rjG1ms4z4BEupQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/mf-navigation.css
+SHA1-Digest: J75Z886YBwlNsBkN5VkhUxHXTs0=
+
+Name: system/b2g/updater
+SHA1-Digest: o5rc98pAHRqTSIPADWz2XaWHBYg=
+
+Name: system/lib/libc_malloc_debug_qemu.so
+SHA1-Digest: LgHXFxmOpT6Mcd6RF+P4t/iyrLc=
+
+Name: system/lib/libicui18n.so
+SHA1-Digest: G89pmuqasc/CEhv1D+4OC+pq47g=
+
+Name: system/etc/security/cacerts/e8651083.0
+SHA1-Digest: pTCqliEJ3Q0TNsBDd6B+1e0I5nU=
+
+Name: system/bin/qemu-props
+SHA1-Digest: X5kffhL+xn9WI27+yYJqSnbst5o=
+
+Name: system/lib/libril-qcril-hook-oem.so
+SHA1-Digest: hfIdkghE+hzvNnoydmpFmSTh8xI=
+
+Name: system/usr/srec/config/en.us/models/generic.swiarb
+SHA1-Digest: ji4QTXKau8N4AjzzU5UsqY8aQ7c=
+
+Name: system/etc/bluetooth/audio.conf
+SHA1-Digest: QIf4qgMnUBAYpBtd88h75P/Spug=
+
+Name: system/lib/libglib.so
+SHA1-Digest: 03wNwQqyg+hufmaTSNrEe2K6yNY=
+
+Name: system/lib/libbtio.so
+SHA1-Digest: jJBEmJSu0j6Xeze5sPGd/xHBl3M=
+
+Name: system/bin/dnsmasq
+SHA1-Digest: QaC1hiJaAJrARUZjh96XzqKPWro=
+
+Name: system/etc/security/cacerts/a7d2cf64.0
+SHA1-Digest: ue9ZDnsNcXdGKbdrk7MpOk3dLUM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-or.properties
+SHA1-Digest: 6ZGrIvT2nSSPslZ68IgHIL0WcYA=
+
+Name: system/bin/omx_tests
+SHA1-Digest: gSMJdzVD10H+5Ce9glhJueYkPvA=
+
+Name: system/etc/security/cacerts/3c58f906.0
+SHA1-Digest: TfWYQv3pjUCWxBCz5mSQzgH9OKk=
+
+Name: system/bin/wpa_cli
+SHA1-Digest: MW8TdDiTVFMcW8MyDHFRW93eAdo=
+
+Name: system/etc/security/cacerts/d16a5865.0
+SHA1-Digest: HwEya3RYnDLYdyMkC8yCmJzSKhs=
+
+Name: system/etc/QoSPolicy.xml
+SHA1-Digest: M/qyfaGfhGj/J9+Y+d/jPAf+7Tw=
+
+Name: system/lib/lib_dlb_msd.so
+SHA1-Digest: ISE7NtjdSX91ZTF2rDafUMmumoM=
+
+Name: system/lib/libdss.so
+SHA1-Digest: NMio0eJ3aMu4ECgSFo3Pnc6nzV0=
+
+Name: system/etc/security/cacerts/882de061.0
+SHA1-Digest: C44riBaYmFJys31UFiqhZTMc7Ig=
+
+Name: system/lib/libgestureservice.so
+SHA1-Digest: crxMWqaMqEZONJmhtWuym9N/0yk=
+
+Name: system/lib/hw/copybit.msm7627a.so
+SHA1-Digest: 6s4nEHMpzlt7V1pN7Ne4PGK6AOw=
+
+Name: qcsbl.mbn
+SHA1-Digest: CsGCmBFIt1ickYhaLDrPqHHAhNs=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/adapters/ie-userdata.js
+SHA1-Digest: OTcDXKcrMJfE8Ss9MQLumtuFt/I=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-be-tarask.properties
+SHA1-Digest: ig6slwMNdPbTO927tqi93ME7sLE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/firefox.css
+SHA1-Digest: ny7oiZDU1Ki7r0+jkvZXzZc8XuU=
+
+Name: system/etc/security/cacerts/8470719d.0
+SHA1-Digest: 3gm79ScbKCIpUzG6Fq+8xe+sGnw=
+
+Name: system/lib/invoke_mock_media_player.so
+SHA1-Digest: 5phsTYT41qIGc4+Qne5LIWUiJaM=
+
+Name: system/lib/hw/audio.primary.msm7627a.so
+SHA1-Digest: DIKn5OpqssxJIVpXxdKUK2Id49Q=
+
+Name: system/lib/libFFTEm.so
+SHA1-Digest: nX2I91UbDaGFb5EZ4BdGSum2ry4=
+
+Name: system/etc/security/cacerts/e775ed2d.0
+SHA1-Digest: QnV/erxTCKUTQ8iuLmezodkrswc=
+
+Name: system/lib/libchromatix_sn12m0pz_default_video.so
+SHA1-Digest: uepOeGX4nn5D6st8GJml44sFS1Q=
+
+Name: system/lib/modules/mtd_speedtest.ko
+SHA1-Digest: rYzuvxxNntEbZEElwYTgpWH8MlE=
+
+Name: system/xbin/sdptest
+SHA1-Digest: VdFqrMAcLu0P0qJ/cPe2JKAr/+A=
+
+Name: system/bin/l2cap_test
+SHA1-Digest: gIvliHoEu2wcQYrDpzRRaXo5vDM=
+
+Name: system/b2g/webapps/keyboard.gaiamobile.org/application.zip
+SHA1-Digest: dULri5MqEfqBS7Y+LjJvEQVOgtE=
+
+Name: system/lib/libqmi_common_so.so
+SHA1-Digest: Htx5LQyLjeFh62zViCtCFYD0jAM=
+
+Name: system/b2g/libsmime3.so
+SHA1-Digest: 6Q2URkjJPbL5S8wcGm7nFOIX1Bs=
+
+Name: system/usr/keylayout/Vendor_05ac_Product_0239.kl
+SHA1-Digest: aBBF8yCxbsyLsypxLAxv1OlR2pk=
+
+Name: system/lib/libmmhttpstack.so
+SHA1-Digest: OMpfVF78Hs1rU6M0VElvBAEecxk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-arc.properties
+SHA1-Digest: ZxhuP7OcUc63ic6sxOZC7737brc=
+
+Name: system/bin/ccid_daemon
+SHA1-Digest: rxvVx54/mhh0rsML2n8U1zQTP+4=
+
+Name: system/bin/testid3
+SHA1-Digest: w6pIGyN+5wGlqhbv0AVNhUCNrd8=
+
+Name: system/fonts/SourceSansPro-Semibold.ttf
+SHA1-Digest: 4SZPeKPys3NvnDYCQp0ozbTz4vc=
+
+Name: system/bin/bmgr
+SHA1-Digest: bBpREmgN5x0uzCxgS8dQhyklSCA=
+
+Name: system/fonts/DroidSansEthiopic-Regular.ttf
+SHA1-Digest: U8h+g8V+6bpPaxzFPXVV+bsYq74=
+
+Name: system/bin/mm-pp-daemon
+SHA1-Digest: yHwHF/XT6X3qy8coj1zgFDag+Yk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/W_launchicon_128_1101.png
+SHA1-Digest: 0l83OwlZW+sgYs24qOWg88anIpQ=
+
+Name: system/etc/security/cacerts/895cad1a.0
+SHA1-Digest: ZfoxSCSC3uyNPPMG27Jrd3n1Ej8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/hogan.min.js
+SHA1-Digest: YdEYOHq/Kzoq0n/XCLwwnNSI19M=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/android.css
+SHA1-Digest: 2Vx/YFomf1ndkYVqvxPkR7YvmW8=
+
+Name: system/usr/srec/config/en.us/dictionary/cmu6plus.ok.zip
+SHA1-Digest: ACsZaiNkJjr+osByDLYlAO7jbjo=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-hr.properties
+SHA1-Digest: Twc8bbCujsK1MXRgRQt3B7Bdqro=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_ril/content_helper/QCC
+ ontentHelper.js
+SHA1-Digest: UswvScSejmrOh8Yy55aAkCh5Mjc=
+
+Name: system/bin/gzip
+SHA1-Digest: 6p9hO31/9GfoEdHmeTEJ7bCMPIk=
+
+Name: system/lib/libchromatix_s5k4e1_ar.so
+SHA1-Digest: YUxwh7iZqpIe1SyC0NSzPSd/2LE=
+
+Name: system/bin/mm-adec-omxamrwb-test
+SHA1-Digest: SFJYXAXQv11FtSMcgEYKjCU8/MQ=
+
+Name: system/fonts/FeuraSans-Medium.ttf
+SHA1-Digest: lgaxXJyYqxtQNhXS6nv7CNuuisU=
+
+Name: system/etc/security/cacerts/1dac3003.0
+SHA1-Digest: xqnEkR4Urw+Mekb6eWImjmF2AMM=
+
+Name: system/bin/mm-adec-omxamr-test
+SHA1-Digest: f96XE5FAgjL2+gn+TDU1FYIXFmc=
+
+Name: system/etc/init.qcom.wifi.sh
+SHA1-Digest: LNOYDeJONFpuGQcaBKWLOht8c2M=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-yi.properties
+SHA1-Digest: dFYkG7veqToXmPGyDTUAY64Fu4M=
+
+Name: system/b2g/webapps/email.gaiamobile.org/manifest.webapp
+SHA1-Digest: bN5o94LyHB6XgUPcSrTP2/+x+RA=
+
+Name: system/etc/permissions/platform.xml
+SHA1-Digest: hDbAKuoL/WBPemguMGGRTrlKVUo=
+
+Name: system/bin/mm-adec-omxvam-test
+SHA1-Digest: w4lpEK+MyW+T7LicmGrCTpA7lCE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/propertiesFileReader.js
+SHA1-Digest: 09Q+HH6QKdMeisizvOziyNN6kN8=
+
+Name: system/bin/record
+SHA1-Digest: WAiN6bOPsbaMAtrFLnNAn+2DyCY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-el.properties
+SHA1-Digest: 3ZaqlXxpuQdox1v2kmom72kQoRE=
+
+Name: system/bin/InputChannel_test
+SHA1-Digest: gswZz6190dchI/4U8Mh7GcPoUvE=
+
+Name: system/lib/modules/mtd_oobtest.ko
+SHA1-Digest: 2tNJxYloeanGuw5/KH1+md8rjGY=
+
+Name: system/etc/NOTICE.html.gz
+SHA1-Digest: xOIeZW/vavCGQIXvKWHMelPHv+E=
+
+Name: system/usr/idc/ft5x0x_ts.idc
+SHA1-Digest: EvHgju6Q5n7ndlTzHNO0u3yttMM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/wii.css
+SHA1-Digest: Zo8VSAa5nVkx982abvj5zpmKmBA=
+
+Name: system/bin/audioloop
+SHA1-Digest: prseh05foCd/xXLp9ZaYkpInK1U=
+
+Name: system/etc/permissions/android.hardware.sensor.light.xml
+SHA1-Digest: Pn0I13jrVn51nOyc4S/jiw/Xw6U=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/operamobile.css
+SHA1-Digest: 0iT2MEp5GT/C9l97NMsFOq3gbiI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-bg.properties
+SHA1-Digest: mye4S9zbcISXkN7X2ecTP88z7xM=
+
+Name: system/lib/libqmiservices.so
+SHA1-Digest: gafhwWby/cphbcUupMLPamiQtXQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/blackberry.css
+SHA1-Digest: OISq1fqCL4MlkQ5OekkrjgAu614=
+
+Name: system/etc/wiperconfig.xml
+SHA1-Digest: KhyxGZ7mlVeQzmb9ybV96vI76fA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ko.properties
+SHA1-Digest: 7kH/jFyUtBgA9oLwM8A+4PplmV4=
+
+Name: system/b2g/libplc4.so
+SHA1-Digest: RcIRncfDHX52EZtZfUg5UoBXYXQ=
+
+Name: system/bin/tcmd_shell
+SHA1-Digest: D42rV1oJMSSrZGfgy+YloLnb2Mc=
+
+Name: system/lib/libchromatix_ov2720_preview.so
+SHA1-Digest: L9qJkWXwxrBCWUOFbXi+yT2cb6I=
+
+Name: system/bin/amploader
+SHA1-Digest: BNV2LrSpthj+bPme/vwM6nFJzCU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/wiki
+ s.json
+SHA1-Digest: cUlVU0jbpr/rXZuRPt+KbfUgbzc=
+
+Name: system/bin/skia_test
+SHA1-Digest: WS0QsWQsxUbCTg44vc2G8m6o7k4=
+
+Name: system/xbin/timeinfo
+SHA1-Digest: KDsLrLU74YQJKwb6vOfuq/Wn+3c=
+
+Name: system/lib/libreference-ril.so
+SHA1-Digest: ZSMRB+fF5kGM81g+1iUmsTsAyL0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/filepage.js
+SHA1-Digest: WHitEvjhJuXOKJQWc1xATDxb+FY=
+
+Name: system/bin/InputEvent_test
+SHA1-Digest: nfQWIuYZi6nRjcsVrNf9Nfx/2EA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-lb.properties
+SHA1-Digest: Yw11R89oJ6uvRZ8vA/ZBC+1ohG0=
+
+Name: system/fonts/CharisSILCompact-I.ttf
+SHA1-Digest: oY/PJSQGEcqFzTrQCLD1tdivB4I=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: QgIbLeDjqgACt2IfGHiROK/mhp8=
+
+Name: system/etc/security/cacerts/3e7271e8.0
+SHA1-Digest: RuWAcBguGdtlhixJYoOZcOECH4g=
+
+Name: system/etc/security/cacerts/f61bff45.0
+SHA1-Digest: T+qB4/2WaUuV16PYtu7WwP3b0gE=
+
+Name: system/b2g/libmozsqlite3.so
+SHA1-Digest: EOCTrR5YmqbGeuThWGfr/Lf8Udc=
+
+Name: system/lib/modules/mmc_block_test.ko
+SHA1-Digest: ueSWUbuQHGBBQDK21rAGIiXA2B4=
+
+Name: system/lib/libmvs.so
+SHA1-Digest: Rx8xwRXWGn8x2qA42fz0QsY2R7E=
+
+Name: system/etc/security/cacerts/89c02a45.0
+SHA1-Digest: loal9vEQNuqt054EQZ5Bc4v5bGE=
+
+Name: system/xbin/avtest
+SHA1-Digest: XzjCRJwm1Yj7NuQCkrVufqirl5U=
+
+Name: system/lib/libETC1.so
+SHA1-Digest: mUfhzR9vIYnzbjzU6vwEHxTYDVg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-si.properties
+SHA1-Digest: lmB7CvEvrgatGlpJNe+j9tzc1Sg=
+
+Name: system/lib/liboem_rapi.so
+SHA1-Digest: ZXWE59eteJzfR9BgWMOBb/2fTRQ=
+
+Name: system/fonts/Lohit-Bengali.ttf
+SHA1-Digest: 8YyKXrXjV+v9Ocb9fWaRfBuhWdY=
+
+Name: system/bin/mm-adec-omxevrc-test
+SHA1-Digest: AVX51xS5arG8fpI7T85BABlSzQQ=
+
+Name: system/bin/n_smux
+SHA1-Digest: xHp12KtK/wmgib0LSyJSnG5d2W0=
+
+Name: system/b2g/webapps/notes/update.webapp
+SHA1-Digest: 4IP1624h7DOGW/UEdL5svGz9U4w=
+
+Name: system/bin/screenshot
+SHA1-Digest: 5JKsCQi3mJAFtcdy8FGRCHP4qKQ=
+
+Name: system/lib/libmmiipstreammmihttp.so
+SHA1-Digest: 3xA34BiTeqIzck2nYq1lYSfsruU=
+
+Name: system/lib/bluez-plugin/network.so
+SHA1-Digest: wSiIfr7C42S+a9UDmdznMy/wD+0=
+
+Name: system/lib/libexpat.so
+SHA1-Digest: bz4juC6HAbb73/pnMrQCzAq1DQk=
+
+Name: system/b2g/webapps/sms.gaiamobile.org/application.zip
+SHA1-Digest: pRiPO5xPzDrsmWcpcbPJBkDwqco=
+
+Name: system/fonts/CharisSILCompact-B.ttf
+SHA1-Digest: Xt0mvlzeTvwAmP3Czyq3mLasRpU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/sections.css
+SHA1-Digest: v4gtVBgt3qGBKoUU6xYQmA0VSqc=
+
+Name: system/b2g/libxpcom.so
+SHA1-Digest: XcTyuQsZtE6mz+ilt8O9Nkl9Z/o=
+
+Name: system/bin/sensorservice
+SHA1-Digest: GNEEZhFYwAhX8FgPzRkI6ERctB8=
+
+Name: system/etc/security/cacerts/27af790d.0
+SHA1-Digest: 0cY3bpCx4tRkNSVNjHyk12XB36Q=
+
+Name: system/lib/libOmxAmrDec.so
+SHA1-Digest: 9Z598q17YrJLEP9ytSbAL47WAOw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/search.gif
+SHA1-Digest: xcw5UKWtc4Iv4kT0THw5qm60+74=
+
+Name: amss.mbn
+SHA1-Digest: fjpOD7Qe5KLtxkitTvhOwXSOdwc=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c294.kl
+SHA1-Digest: FEu4tbv/pfG+jZWhYQQVPaclr8Y=
+
+Name: system/lib/libsqlite_jni.so
+SHA1-Digest: 4uQ3LjIVtHk0sA6CBMOAhPSQ5Sc=
+
+Name: system/bin/ndc
+SHA1-Digest: gDjQUMDWQLlpZUKLY5NG6mD9zuw=
+
+Name: system/etc/init.goldfish.sh
+SHA1-Digest: D3Ehu4SxtQQqVaZr1ifP/Prf93E=
+
+Name: system/lib/libOmxEvrcHwDec.so
+SHA1-Digest: 0ve3GDFoUI7Vd27hwJyJ4EF27qc=
+
+Name: system/lib/libskia.so
+SHA1-Digest: sm528Bzg0Bp0kFwUHFCx18YB6tQ=
+
+Name: system/fonts/SourceSansPro-Bold.ttf
+SHA1-Digest: TXMEtDaVZEr+YUcc6I8haMr5v8M=
+
+Name: system/bin/mm-adspsvc-test
+SHA1-Digest: vvbisOfozKd8AYmpTHtVz1CuVyc=
+
+Name: system/lib/libdrmframework.so
+SHA1-Digest: 3bqmjY50KMejj649U9wniDdaUGc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-gd.properties
+SHA1-Digest: jS0u8jr7PtcHcMGIA+DHkqehxAE=
+
+Name: system/usr/keylayout/cyttsp-i2c.kl
+SHA1-Digest: n679ChxOvaaaBRpBLUHzop4UzgY=
+
+Name: system/lib/libthread_db.so
+SHA1-Digest: 15UYZUSOAR+lYVREN64mj3rocJQ=
+
+Name: system/lib/libandroid_runtime.so
+SHA1-Digest: wC3J/8seUq+PtnocHeTpGzc2O4U=
+
+Name: system/bin/vdc
+SHA1-Digest: Wv38e79p7G4WV42cgBvA4axSk20=
+
+Name: system/lib/libgabi++.so
+SHA1-Digest: PyabghWdLjqKitBJI/xMhCTPbF8=
+
+Name: system/bin/iw
+SHA1-Digest: HSk7/cD022ltSh9+1oB6T+fGtTA=
+
+Name: system/lib/libOmxWmaDec.so
+SHA1-Digest: Amurh2TKg5K9ri2gM8P6BGGYQgU=
+
+Name: system/bin/qmiproxy
+SHA1-Digest: S/bnriVHcthY6YzAPg+QGunVtYI=
+
+Name: system/fonts/Roboto-BoldItalic.ttf
+SHA1-Digest: b18bhiBhpPwzpvMDiEeVWLwx6Uc=
+
+Name: system/lib/modules/mtd_erasepart.ko
+SHA1-Digest: Dqfz390YOyhh8Fo8728e7TmvwxM=
+
+Name: system/etc/security/cacerts/f4996e82.0
+SHA1-Digest: NFib+Gt/85AoEla6GdaHBKkqcA0=
+
+Name: system/fonts/SourceSansPro-It.ttf
+SHA1-Digest: 8/F69R2cQ6r/i3fGpkR+VaGGcyo=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sr-ec.properties
+SHA1-Digest: 60CpVC5xVsQPYD81USzYqxkWzSQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ca.properties
+SHA1-Digest: xwgUplyia4EbOXLgQ1vtHI0mTe8=
+
+Name: system/bin/ip
+SHA1-Digest: iNZq93pAIh4OMtzdEsTi7eO28gs=
+
+Name: system/usr/srec/config/en.us/grammars/phone_type_choice.g2g
+SHA1-Digest: KPYJAVJTCr7vOBWM2qlErKU+otg=
+
+Name: system/lib/modules/mtd_nandecctest.ko
+SHA1-Digest: FxxvLdtfUXlwbxVOnBh/EfWvJeU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-zh-tw.properties
+SHA1-Digest: SNFNAgXMQtAXZGpUJlJxME4jOoQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ja.properties
+SHA1-Digest: mBvV8vXToMPNMEfuZysbp3+0hbk=
+
+Name: system/bin/fmconfig
+SHA1-Digest: 7m5Yx+6mLOGYgQVVkchKCRJg1rc=
+
+Name: system/etc/permissions/android.hardware.camera.flash-autofocus.x
+ ml
+SHA1-Digest: aDfHvVEe0svv+HGWg3e4S1UZY1k=
+
+Name: system/b2g/libplds4.so
+SHA1-Digest: hJFpA7ht41Saq56RVd9Lu5/Lq2Q=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-uk.properties
+SHA1-Digest: A8Zz/fyl5OAoj0wH9l8+vv6gokc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/spr.png
+SHA1-Digest: krxE6sl82xgAibo+RLwDMTHXXW8=
+
+Name: system/fonts/Roboto-Light.ttf
+SHA1-Digest: iIvrdTdlHtWdGpTZUyBdIO9TI/4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/leaflet/leaflet.ie.css
+SHA1-Digest: nKBzplt+U2gdvKk7A2NKj7OXtIQ=
+
+Name: system/lib/libpagemap.so
+SHA1-Digest: 4XOiW5XME1evhO3relM9Tn3Yy30=
+
+Name: system/lib/libchromatix_mt9e013_ar.so
+SHA1-Digest: yWlMyRAUp0OG4zu1zIETxzdcFtk=
+
+Name: system/xbin/latencytop
+SHA1-Digest: WNOu69ItOy85XsIhJ0XCGFsqR/E=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/mf-watchlist.css
+SHA1-Digest: 34sk/bKXcD1S1ij10OuDsRiTIEE=
+
+Name: system/lib/libOmxMp3Dec.so
+SHA1-Digest: 8pEq0lNT+cOcrcnMTrmM9lyj8rk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-mt.properties
+SHA1-Digest: Xl09B2p+GHNnXzzk5QFvfzraJwA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/leaflet/leaflet.css
+SHA1-Digest: JKR368ucsOvbWxTe2FwGBARopv0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/Mobile_nav_bar_icons.png
+SHA1-Digest: ADaLWoEMqydTN/eEd9oMKwSJPV4=
+
+Name: system/b2g/webapps/communications.gaiamobile.org/application.zip
+SHA1-Digest: Yqitu8/+JmiB+NeX8XonXWCgnh4=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c216.kl
+SHA1-Digest: 334eygJ7+pqLeyMJvz5L56ffVVY=
+
+Name: system/etc/loc_parameter.ini
+SHA1-Digest: ZInjiiE0WDpyPI1cjRLY26WUPI0=
+
+Name: system/lib/libloc_eng.so
+SHA1-Digest: 1Q96YCNaYk153p7qEhsPgDJ2onU=
+
+Name: system/bin/mksh
+SHA1-Digest: MS8QtJ2kEsww14xUgFYszNV45TQ=
+
+Name: system/bin/mm-aenc-omxqcelp13-test
+SHA1-Digest: R3jm1QcpElgwvtvs4k8Ivtgp058=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-es.properties
+SHA1-Digest: KGZAhM9lkaVgP3LLD/f6bAZv/cE=
+
+Name: system/lib/libchromatix_imx072_default_video.so
+SHA1-Digest: wANscvj6JE5EHLYwpoX+pKIFC5M=
+
+Name: system/fonts/SourceSansPro-LightIt.ttf
+SHA1-Digest: 7BJw8ld0oGO+r4oMc6UzO7kUhs4=
+
+Name: system/fonts/Roboto-Italic.ttf
+SHA1-Digest: 5ipbgj463XjLbp5Mgkaxo9XZCDs=
+
+Name: system/b2g/webapps/bluetooth.gaiamobile.org/manifest.webapp
+SHA1-Digest: IDSjZ220OqkAKrv5WbnYiw4U+eE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/button-light-wiki.png
+SHA1-Digest: zJSldziz/JnI4ZUMsg1FwXuh08U=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/adapters/indexed-db.js
+SHA1-Digest: 2nvSWcrpstWZT02YH/hylJGxVXw=
+
+Name: system/b2g/libnss3.so
+SHA1-Digest: oix+LoqsMfqTS1rZ80bDRtG6SV0=
+
+Name: system/lib/libnfc_ndef.so
+SHA1-Digest: av8ktM6cFZ44vyAxVRoPlQEqVdA=
+
+Name: system/bin/loc_api_app
+SHA1-Digest: dalhdBM49nO4ji+YB+lledhQhEs=
+
+Name: system/lib/libm.so
+SHA1-Digest: LRaEStI0rrElKTr0h87/hFn5y5E=
+
+Name: system/bin/mm-aenc-omxevrc-test
+SHA1-Digest: pp+nd0+VVs7UzCOoVK6Bw4sIPbA=
+
+Name: system/bin/radiooptions
+SHA1-Digest: SpwseDju4DDRLzNsY8D6piOSzfQ=
+
+Name: system/lib/libmmosal.so
+SHA1-Digest: 584ky9mIK24fse08JYlRoWmgrAY=
+
+Name: system/lib/libril-qc-1.so
+SHA1-Digest: Pj15s7cEVBAYWrT1mb41/tAcnuM=
+
+Name: system/bin/hostapd
+SHA1-Digest: 6y+7+4kOzexNdHRHlbzK8mVJZXQ=
+
+Name: system/etc/xtwifi.conf
+SHA1-Digest: UMuFYxOdgh9it85hpbPx0jeadh8=
+
+Name: system/lib/libmm-abl-oem.so
+SHA1-Digest: Clh9aeDoMho40XowevWczuZPj/Q=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_location/libqc_b2g_loc
+ ation.xpt
+SHA1-Digest: SrwOHw4e+dS4CzrNKPlYmqJcesk=
+
+Name: system/bin/PktRspTest
+SHA1-Digest: MBqKCFCsC+WlCBMeuXDMaTEApIM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-gl.properties
+SHA1-Digest: 9RwZ98GbWSFOyci4RYDa9yrzd7s=
+
+Name: system/etc/security/cacerts/74c26bd0.0
+SHA1-Digest: JPSZvZ3Tx+8fME4kV3U1NQInDwk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/adapters/window-name.js
+SHA1-Digest: BBRNhoxN0T4PewbqnsirAlZBxVs=
+
+Name: system/bin/stagefright
+SHA1-Digest: DbPXrunHLnVOazKXAGpXFwEjpS4=
+
+Name: system/bin/String8_test
+SHA1-Digest: bDW3PvSYhHMzICSMrWvbs8ie29Q=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/spr.png
+SHA1-Digest: 33l3SbvKind5P95ZdGhdzFfzhWU=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_ril/chrome.manifest
+SHA1-Digest: rZXC+pdaIjlB09nJunNHQivGRCA=
+
+Name: system/xbin/netperf
+SHA1-Digest: L4H16B+y6XoabB3euM/FVW96vkk=
+
+Name: system/lib/libgsdi_exp.so
+SHA1-Digest: +BhN3GNxpZyjpWLyu+VaXGvPyTU=
+
+Name: system/bin/akmd8962_new
+SHA1-Digest: zxYdzehpJdKzq/3XC35XVO8anG4=
+
+Name: system/bin/gdbserver
+SHA1-Digest: Rmqzy3J6hyXO5+66wuvSIB3cVVs=
+
+Name: system/lib/libutils.so
+SHA1-Digest: ZwFsT746eIW8WUMrGzfdI8n1/kI=
+
+Name: system/fonts/SourceSansPro-Light.ttf
+SHA1-Digest: /Q/OVy27VBBmMC0DaikeaQYlRhU=
+
+Name: system/bin/athwlanloader.sh
+SHA1-Digest: gL51tQhgndHOaLstQnETDwYrYuM=
+
+Name: system/lib/libSimCardAuth.so
+SHA1-Digest: XxxMVXDDZQxcBO92/oP2tEZyAaE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-pt.properties
+SHA1-Digest: eJELGOQU1ojqJu3JNiAhNjIICxY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/l10n-setup.js
+SHA1-Digest: 04LmEpVZG9fXpmFBZJSWjB1ZK1Q=
+
+Name: system/wifi/ath6kl_sdio.ko
+SHA1-Digest: xFADvTdfIXQYfFuVUsThnSRXqVY=
+
+Name: system/etc/security/cacerts/7651b327.0
+SHA1-Digest: XHbRZvJn9XfMIFtTqDSXFV3AzRM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/adapters/memory.js
+SHA1-Digest: epz1jKzepM6edV5nOWzbHJKfDbg=
+
+Name: system/lib/libwifiscanner.so
+SHA1-Digest: gUFoPM5WpdAi8uoknStDUP2JEFQ=
+
+Name: system/lib/libwidevine.so
+SHA1-Digest: ru+OK4Ixn5bnemEDmBjprVnl6QE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/leaflet/leaflet.js
+SHA1-Digest: bGbkldS14PhuE791yE8MeY+q8Fs=
+
+Name: system/lib/libqueue.so
+SHA1-Digest: hNTdXBs8GVBcW7S4/TwUc+Steis=
+
+Name: system/etc/security/cacerts/219d9499.0
+SHA1-Digest: h/DoWPK51SL4obNm8yCTilqR0+8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ms.properties
+SHA1-Digest: ylvtWg+9LIUdFti8hnUej1E0pfg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-cs.properties
+SHA1-Digest: weIQ81/vlYrB4qGY7QVIW8LGyMg=
+
+Name: system/lib/libauth.so
+SHA1-Digest: TygD5KacRpYHpTzxyzOKtB63JFM=
+
+Name: system/etc/security/cacerts/a7605362.0
+SHA1-Digest: Z0AbnajZ3GPkGwTegW8+BCjdbFI=
+
+Name: system/lib/modules/mtd_torturetest.ko
+SHA1-Digest: ybNJE8vw2F/6f9D2ncjkaQUJg+I=
+
+Name: system/etc/security/cacerts/56b8a0b6.0
+SHA1-Digest: BbeXAaF1+TrUH67tzOrpG2PoDbM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/search.js
+SHA1-Digest: 9jgTX6ACe2c8rR6k4pXP0WQ/kpk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/mf-languages.js
+SHA1-Digest: qBmFJvyCgqsCy7o5d77gnSooH5c=
+
+Name: system/etc/security/cacerts/60afe812.0
+SHA1-Digest: ttJEIPTia8N+uVOS3mUfCJzhFvI=
+
+Name: system/bin/spp_test
+SHA1-Digest: t5MJXLCiLKh4NYvHHS86essSONk=
+
+Name: system/fonts/Roboto-Black.ttf
+SHA1-Digest: Tn1Y1Ck/8bw1Vdvgfug74v0qJFY=
+
+Name: system/xbin/rctest
+SHA1-Digest: Tg05/LZ0kN0MF/I8fYf0tN1ou9g=
+
+Name: system/bin/mm-adec-omxevrc-hw-test
+SHA1-Digest: 9kct0e6FiAAuDtjEoPAOtjkwwK0=
+
+Name: system/etc/AudioFilter.csv
+SHA1-Digest: HVCyD+J7OQelOUsRw3wK6W5wjcM=
+
+Name: system/b2g/webapps/settings.gaiamobile.org/application.zip
+SHA1-Digest: GWo5/yYWNqWg5RinTxhdvmXOIiY=
+
+Name: system/lib/libsnd.so
+SHA1-Digest: WXfP/XgDlyGiKh0ADxZelTTRII8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ln.properties
+SHA1-Digest: 5OlWoEyClwF5duO0hofbIQSPkk4=
+
+Name: system/xbin/ssh
+SHA1-Digest: xhI+Gao6PZa7SgXEFLQ1sTIg1fk=
+
+Name: system/lib/libdbus.so
+SHA1-Digest: FaLnjnVbeXJh/IHVy5nQCqcSgA8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-rue.properties
+SHA1-Digest: psg8+KaYsdJs5JqOVp46FZvrbjo=
+
+Name: system/bin/input
+SHA1-Digest: fmnGVSPBoXqAUgaTVBG6zdBwPNY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ar.properties
+SHA1-Digest: okFADyY4PzBimXxO+QhFSde5biI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/footer.css
+SHA1-Digest: fe+Mxrq3c2nPObbMFlG5mfX/Y14=
+
+Name: system/lib/libext2_com_err.so
+SHA1-Digest: pdZzOOY6sWGgSx6t80G0waE8uUM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/mf-watchlist.js
+SHA1-Digest: Ob2QjN/kKjcFYZ3IJ/2dteU6CHE=
+
+Name: system/bin/pm
+SHA1-Digest: ZZqEROz0ggs5Pz1SZjKHP/AP6xw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-bar.properties
+SHA1-Digest: I3ehsgiAKfgt09U9zSBu0fBbCo8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/leaflet/images/marker-shadow.png
+SHA1-Digest: msgdCyERIxYpV8y6C+MwPCzsrEs=
+
+Name: system/xbin/dbus-send
+SHA1-Digest: Rud0YLhJFGa28cFwpB1+BsYeiR4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/button-light-close.png
+SHA1-Digest: YVt8+jE5TUDZTtC9VTtOY2fc854=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/Lawnchair.js
+SHA1-Digest: OONJ6LavUBnBPxN82Y1mv92s5uI=
+
+Name: system/etc/firmware/ath6k/AR6003/hw2.1.1/nullTestFlow.bin
+SHA1-Digest: UUmEuSv8coR4CKaZmd0b/p8akFY=
+
+Name: system/lib/libbluedroid.so
+SHA1-Digest: ZdLSy8or9X/TCc3pYBwtqSEclYQ=
+
+Name: system/fonts/DroidSansMono.ttf
+SHA1-Digest: c95nnXS8f3Ki6JMBrBxt2DG/pB4=
+
+Name: system/bin/iwspy
+SHA1-Digest: ZdkcQ5FrkMIBobn4VEqN9oNuWhg=
+
+Name: system/fonts/Lohit-Tamil.ttf
+SHA1-Digest: McBoQsaTuU+deLxg3CVWBqG3BgM=
+
+Name: system/bin/port-bridge
+SHA1-Digest: nmDeqL1yWu8C8gOgRKRRiM462mI=
+
+Name: system/lib/libdsi_netctrl.so
+SHA1-Digest: eCB4VsZAAHz8t1w16nJPyQaIro0=
+
+Name: system/etc/security/cacerts/7a481e66.0
+SHA1-Digest: Qrug23rc7GLUystiW+B7d4bzaJw=
+
+Name: system/lib/hw/libengmode.so
+SHA1-Digest: S+kdutoKaAxuhyBWBEbeFnVrBZA=
+
+Name: system/bin/qemud
+SHA1-Digest: EgtI3ACxMA3JUR3VWNIifDTNXKY=
+
+Name: system/lib/libchromatix_ov9726_video.so
+SHA1-Digest: XulrLTSKsbd88SBo4y/F+vAZZ+s=
+
+Name: system/lib/hw/gralloc.msm7627a.so
+SHA1-Digest: /XQpLenykCdY9oDxxuC1W4QWFr4=
+
+Name: system/bin/screencap-gonk
+SHA1-Digest: +tx7MfgjHeNvb+oqH7xmeMGjbuA=
+
+Name: system/etc/security/cacerts/5a3f0ff8.0
+SHA1-Digest: ZHheT+DD2seVYhDReWK8HQa1FoY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/operamini.css
+SHA1-Digest: 8JFANrhOCkZy7QIY3MUetNMv0lg=
+
+Name: system/usr/keylayout/7x27a_kp.kl
+SHA1-Digest: s8zZAFqswW5zLTDsulLXt/BsfAE=
+
+Name: system/bin/recordvideo
+SHA1-Digest: WtklKwybYCvASChHQ6CvsqEm0DM=
+
+Name: system/bin/BlobCache_test
+SHA1-Digest: whCiWfLHn1uniIP+R/FEy596sIU=
+
+Name: system/lib/libeffects.so
+SHA1-Digest: ti07BjwVdbH3xRq8m2R+k7Kj8zI=
+
+Name: system/lib/libGLESv1_CM.so
+SHA1-Digest: Ozbwr1g6J39JWGxAZRpUBJlsjjw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/a
+ pp.js
+SHA1-Digest: /dwFjcxs9QfG1JuQZmgp55QRWy0=
+
+Name: system/bin/Tgetmem
+SHA1-Digest: iRN0sJjOKyvQRAhx7HxNBCZH4+o=
+
+Name: system/lib/libmmcamera_image_stab.so
+SHA1-Digest: aKwl4K7eGSxnQn9qH2+wawudm1g=
+
+Name: system/lib/libchromatix_ov8810_default_video.so
+SHA1-Digest: gvNRqxz3RDY3Zh2T51vXp2LxXFc=
+
+Name: system/etc/security/cacerts/e48193cf.0
+SHA1-Digest: UXw27ZZFF2Dc7iZjui9EOHuDgpQ=
+
+Name: system/etc/security/cacerts/4d654d1d.0
+SHA1-Digest: RiffZAyYlk3Z5RE5r3Eimp4hoCQ=
+
+Name: system/lib/libstagefright_enc_common.so
+SHA1-Digest: V0YXN8z92I+F2UskqnEdunOyD28=
+
+Name: system/lib/hw/camera.msm7627a.so
+SHA1-Digest: E9O/NljN5bqnWt0ANjRcw7eF30c=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-nl.properties
+SHA1-Digest: yjpTt6/zSgWz7E9POPjfWrsb1cY=
+
+Name: system/lib/libchromatix_qs_mt9p017_video.so
+SHA1-Digest: KEeh/SsQqq4RT5f1Vg9DYjlBCag=
+
+Name: system/etc/firmware/ZTE_P752D04_JDC3335_V0003.hex
+SHA1-Digest: jeABpeKyu9dkoPiG552Q72GeTvE=
+
+Name: system/lib/libchromatix_vx6953_default_video.so
+SHA1-Digest: K67zO4Ek2ic3FwpwP8taGeDc/ZQ=
+
+Name: system/b2g/dictionaries/en-US.aff
+SHA1-Digest: KQTWyIqS+swDeFFJmDjlMRwrG0w=
+
+Name: system/b2g/crashreporter.ini
+SHA1-Digest: AlIEN5CH5enW2gxf5g7Od4vZzBU=
+
+Name: system/bin/tc
+SHA1-Digest: rVlOZY7gq7urAZq2okdesdu6hCU=
+
+Name: system/lib/modules/librasdioif.ko
+SHA1-Digest: fqeqdP4SKQ9JW/C5EsnBT8j3/k8=
+
+Name: system/fonts/Roboto-LightItalic.ttf
+SHA1-Digest: 7zikLx2d0xDwkY2+UFnvy9vK2EA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-uz.properties
+SHA1-Digest: AEqZKJe2tuHjADI4YLhULwY0VEQ=
+
+Name: system/lib/libchromatix_ov8810_preview.so
+SHA1-Digest: vNREo/kaHF3taEJq1CyI5EvrEko=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-he.properties
+SHA1-Digest: +5YWFoTiqU/jnld2jAmXkg2FjIY=
+
+Name: system/etc/permissions/android.hardware.telephony.gsm.xml
+SHA1-Digest: VedgY17d+3Q4Wvr4BUBh8n6kIt4=
+
+Name: system/fonts/Roboto-MediumItalic.ttf
+SHA1-Digest: iYomyhDXEh5phNacRE9NKaJ5B6E=
+
+Name: system/fonts/SourceSansPro-Regular.ttf
+SHA1-Digest: EQJ5ODx5NfkYdDJ6d6qj1w7KP3Q=
+
+Name: splash.img
+SHA1-Digest: ri2RAIEMIqOUmAdrnULQncFML8w=
+
+Name: system/etc/security/cacerts/a15b3b6b.0
+SHA1-Digest: Ga8+gSid8GucSUYQ4UcWClt0eZI=
+
+Name: system/usr/keylayout/Fts-touchscreen.kl
+SHA1-Digest: UcHw7LSvLwcR0lMGf7sSb6N0IDM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/W_launchicon_16_1101.png
+SHA1-Digest: dRzPzi9vxtwNMarGYd68DrDvldA=
+
+Name: system/lib/libOmxOn2Dec.so
+SHA1-Digest: uSoOkJofpwwF3U260TYxVLbnBAU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sq.properties
+SHA1-Digest: tYLGOBLxU2QL1AVUQWynZ8aA63E=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/AUTH
+ ORS
+SHA1-Digest: EWbBzgLAkVzUEHH6ZVcxQf8f+j0=
+
+Name: system/etc/security/cacerts/33815e15.0
+SHA1-Digest: sxrwaxlAJHZVh6z+sNYj97iZIuA=
+
+Name: system/lib/libOpenSLES.so
+SHA1-Digest: Japnstnu3IUzJQ5tljO+Mgbal9I=
+
+Name: system/lib/libOmxrv9Dec.so
+SHA1-Digest: nUma2MnlgFO6zLYgGeCd5fEtyPg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-mk.properties
+SHA1-Digest: In+gki7NnxRRCid5P5LuDX9EKA8=
+
+Name: system/etc/security/cacerts/ab5346f4.0
+SHA1-Digest: JR31iZjUtae696itSOA/gRp+YY0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ro.properties
+SHA1-Digest: j+ipGgi5qZbFUSE3qINeG0sO/Sc=
+
+Name: system/etc/security/cacerts/c215bc69.0
+SHA1-Digest: n3bzg8K5bD8w4yGFJSki+vVIDiw=
+
+Name: system/lib/libhwui.so
+SHA1-Digest: Bu6XYrKTJVmYDV89XA1DGuuFKJE=
+
+Name: system/lib/libOmxMpeg4Dec.so
+SHA1-Digest: 3rG3Dhozhj4h2x8yzD3LeQ1tC/o=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/s.svg
+SHA1-Digest: NEijZnw7UHf91+T2BYurBQ5f0qU=
+
+Name: system/b2g/webapps/accuweather/manifest.webapp
+SHA1-Digest: xqtGXvcX3EXF4PiQ7vYxE1qLWWM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/icon.png
+SHA1-Digest: Vb5knevcH4CeBsaQKuiKuoonrNY=
+
+Name: system/etc/permissions/com.qualcomm.location.vzw_library.xml
+SHA1-Digest: LhQIwNHgc4cVShaWGY3yxm9eGmE=
+
+Name: system/etc/security/cacerts/6fcc125d.0
+SHA1-Digest: dxoW8n5icyMm+Np/IAxgMBCnnt8=
+
+Name: system/lib/libsrec_jni.so
+SHA1-Digest: 9qcXdkbbJp2uVGfa5jcBLAG/gz0=
+
+Name: system/lib/libcamera_client.so
+SHA1-Digest: 4OvkSRAygli5WLaqfNAJ+usbNGY=
+
+Name: system/lib/libOmxEvrcDec.so
+SHA1-Digest: yRAYrwZDgcrW7k4/6wO4t+KiYqA=
+
+Name: system/etc/bluetooth/network.conf
+SHA1-Digest: ohG3JTS5q6MFsXRnG157DmRlfOU=
+
+Name: system/bin/bootanimation
+SHA1-Digest: ebQi7K2rkbRnRzFGH3VuAOlJApw=
+
+Name: system/etc/security/cacerts/7d3cd826.0
+SHA1-Digest: 9A93UolYEp2zLqOTDQS6H+32euM=
+
+Name: system/lib/libmmipl.so
+SHA1-Digest: Wx+n9ZD97Frh7qr1cb6D5+f0AB4=
+
+Name: system/etc/bluetooth/iop_device_list.conf
+SHA1-Digest: 0o7oAWg1dVKa21E2hcV7j0qaApk=
+
+Name: system/xbin/l2ping
+SHA1-Digest: k/wjnkqzikeSyQborHmEVBeUxpY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/mediawiki.js
+SHA1-Digest: Y4iewpj6v5PtSPDna/f8eJ2n+SM=
+
+Name: system/lib/hw/gps.goldfish.so
+SHA1-Digest: iTvRiVmr7BdOmVJ4Hf30fYvLbYY=
+
+Name: system/etc/security/cacerts/10531352.0
+SHA1-Digest: y9ENJVY4/0yK+jqASHt1m0dczag=
+
+Name: system/lib/libnetlink.so
+SHA1-Digest: zX0+nHWp7efak7bPizKQYjPSGzk=
+
+Name: system/b2g/omni.ja
+SHA1-Digest: h/ik05qt+3yW4YIOIhF6yYBRRm8=
+
+Name: system/usr/idc/Fts-touchscreen.idc
+SHA1-Digest: 4EtBPNj3WciDAG90KLe00MTpFQ8=
+
+Name: system/lib/soundfx/libaudiopreprocessing.so
+SHA1-Digest: jlWxwF7f92NEGCn+2SSFFS8WDpA=
+
+Name: system/bin/setup_fs
+SHA1-Digest: kM5qT9C5Oo+IYDpOB2RKYYOFjyk=
+
+Name: system/bin/dhcpcd
+SHA1-Digest: +6lnlXkm2M9gTJCAtYDd/4GmDww=
+
+Name: system/b2g/webapps/webapps.json
+SHA1-Digest: xUxoaAgWB5gDpEWjhXHYJ5bInVA=
+
+Name: system/lib/libloc_adapter.so
+SHA1-Digest: RTLL4SLnfvxJMFewG+dr4vhE50g=
+
+Name: system/fonts/AndroidClock_Highlight.ttf
+SHA1-Digest: UpUMgtFG6S4ktliTHrzjzh2Sb2E=
+
+Name: system/lib/libcnefeatureconfig.so
+SHA1-Digest: qme8uvs5w9Ull4tb0m+hVhPFr1k=
+
+Name: system/usr/srec/config/en.us/dictionary/basic.ok
+SHA1-Digest: jtEEAE60jUZP6V7Rz23Hu8XXsMo=
+
+Name: system/b2g/chrome.manifest
+SHA1-Digest: VXOf4BTnYJJ1oo34Xgq6l6dggFM=
+
+Name: system/lib/libping_mdm.so
+SHA1-Digest: wNXgLFrQ1ZWJ65iK7SDMRkolfUw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-tr.properties
+SHA1-Digest: bh+N/ITZaM/osVdckmUW+4oTnGA=
+
+Name: system/etc/cacert_location.pem
+SHA1-Digest: wHND4U2EyiIUBAZ4+slJYyEJfBM=
+
+Name: system/etc/security/cacerts/594f1775.0
+SHA1-Digest: b8fylO1vYs50OMpD7EuUt+mZmQs=
+
+Name: system/lib/libchromatix_s5k3e2fx_preview.so
+SHA1-Digest: ZBB6CYgHNS80uIvWLfwrSiCnpEQ=
+
+Name: system/bin/bridgemgrd
+SHA1-Digest: PGLry7xEljNGKSkYyBctADENE6k=
+
+Name: system/etc/security/cacerts/2fa87019.0
+SHA1-Digest: RI7spWByA4m8BiATKQhVCZPh1kg=
+
+Name: system/b2g/defaults/settings.json
+SHA1-Digest: 3WWFiZfg6Xs6UlA30oHW8cZvW2o=
+
+Name: system/fonts/Roboto-CondensedItalic.ttf
+SHA1-Digest: O4KXKrluc55wMMhh2+TE7xPPH8c=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/adapters/gears-sqlite.js
+SHA1-Digest: wDlVFkbiAtHIHT1fu+OtKSax7BI=
+
+Name: system/etc/event-log-tags
+SHA1-Digest: XqwwJi856HaBmH+TvF+qjRk7Ans=
+
+Name: system/b2g/webapps/accuweather/cache/http_/vortex.accuweather.co
+ m/adc2010/m/images/sprite-20130403a.png
+SHA1-Digest: PYDcozzzD/WG1teifayv6Z+YQdo=
+
+Name: system/bin/mm-qcamera-testsuite-client
+SHA1-Digest: r2DzhwyeMtUN5xpbUPezkqk3Eww=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/icons_sub_menu.png
+SHA1-Digest: 47FzpxDPKIpJ0HXbmEvmkdSIXgw=
+
+Name: system/b2g/webapps/system.gaiamobile.org/application.zip
+SHA1-Digest: Ie9p8S/Q/jRdV0OsPiXgiAEilAA=
+
+Name: system/usr/keylayout/Vendor_22b8_Product_093d.kl
+SHA1-Digest: 94UqYM02uQuqPT7U58C9UD8Plaw=
+
+Name: system/lib/libc2dcolorconvert.so
+SHA1-Digest: Efl2ZUArYkHJTJ7RHkTilyZFzkg=
+
+Name: system/usr/idc/melf-touchscreen.idc
+SHA1-Digest: ZrjlA9fvV9GIyjzDjlRculBcWlo=
+
+Name: system/fonts/SourceSansPro-BlackIt.ttf
+SHA1-Digest: yqYqFOtHGbJg8PQVLjAeoS1R/ZM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/chrome.js
+SHA1-Digest: MAoYpldNF+HYOf5yIZG8aauENWA=
+
+Name: system/lib/libdvm.so
+SHA1-Digest: kMPY9DcSznc/7gEXYLIzwqsCWWM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/spinner.gif
+SHA1-Digest: s3wWo86cI6TUClL5RheG1jEPsCU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/inst
+ all.html
+SHA1-Digest: gLAVA7qpj/RUyFAxI+u3wn0KDJs=
+
+Name: system/bin/mm-jpeg-enc-test
+SHA1-Digest: csb34L82PyUTyTAlP21ubCevkSc=
+
+Name: system/usr/srec/config/en.us/models/generic8_f.swimdl
+SHA1-Digest: OUQtGxyzBG46RkofSQn8ez34OlE=
+
+Name: system/lib/libqmi_cci.so
+SHA1-Digest: pi8ubfEpo5KbO5DFfc4UDivbqHc=
+
+Name: system/etc/security/cacerts/fac084d7.0
+SHA1-Digest: kVbZi1tMnjKCdaDIG1+QC0uymEk=
+
+Name: system/b2g/webapps/marketplace/application.zip
+SHA1-Digest: d0YGmLoWZ22ii9lVbuM/0iK6EXo=
+
+Name: system/etc/security/cacerts/ee7cd6fb.0
+SHA1-Digest: bkvA4zNXQeEiBJAmk+PXsF/pHKY=
+
+Name: system/bin/usbhub
+SHA1-Digest: lx7/vDFByPLurq0I87QBggWV7oc=
+
+Name: system/bin/vold
+SHA1-Digest: dOE8mmT7sksSOxlWfJYgjZYaE84=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_location/chrome.manife
+ st
+SHA1-Digest: YvMry+4gtFWc519vn/vv7sLtmwk=
+
+Name: system/fonts/SourceSansPro-ExtraLightIt.ttf
+SHA1-Digest: HBwmnexafYdcBOGO7rvZtDu0UhM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/mf-navigation-legacy.js
+SHA1-Digest: 2CQgmlHJI7sVwI0aeYq3EboJL78=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/inde
+ x.html
+SHA1-Digest: fDFdrS3WiPwW7Ex+MA79CqE6GWY=
+
+Name: system/bin/mm-audio-voem_if-test
+SHA1-Digest: lWiCAx17wlWrcI/ZKAR2WfNY3+w=
+
+Name: system/bin/stream
+SHA1-Digest: KJmd6rw0obKiq5ZhS9Lzy+dSwiY=
+
+Name: system/lib/libconfigdb.so
+SHA1-Digest: gN1UTAlPPwTj6NV8rfkLtLwOBBA=
+
+Name: system/fonts/DroidSansHebrew-Regular.ttf
+SHA1-Digest: vCyI5L4+fY5R89LvPsNi6paN1xU=
+
+Name: system/etc/security/cacerts/c8763593.0
+SHA1-Digest: +gdb++qnd0mWyTgp0LJzn5wDIrE=
+
+Name: system/bin/ime
+SHA1-Digest: RpNbbWSd+bvmP5Bk8IPErzl4iN4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/mf-history.js
+SHA1-Digest: Hy2ujVNvRBxNgBmvXlyTUrS8C+M=
+
+Name: system/usr/idc/qwerty.idc
+SHA1-Digest: XSU+bbgHHEbEG/bF1WUYrQ9Nj/A=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/geo.js
+SHA1-Digest: 1z2lBYP8o4ZOVdu5PCFi82OzKg0=
+
+Name: system/usr/srec/config/en.us/models/generic8.lda
+SHA1-Digest: OYQ/W3VpcPHMWi23NHXjTYvQcIM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/leaflet/images/zoom-in.png
+SHA1-Digest: GCytX3Q2yv2uJA4yADvLR6XT6Qk=
+
+Name: system/bin/updater
+SHA1-Digest: jJifMkKdB1OY2gRMoydSdyY6Xz0=
+
+Name: system/b2g/webapps/calendar.gaiamobile.org/application.zip
+SHA1-Digest: gBfDWbEcOj7sCeW+DRpKJsUhDmU=
+
+Name: system/lib/libchromatix_vx6953_preview.so
+SHA1-Digest: xTw8D/QSh5ymUcPIuo5Sfw20RV4=
+
+Name: system/etc/security/cacerts/ed524cf5.0
+SHA1-Digest: YUUDaE+eI4AQpO1M9Eel4WIxTGI=
+
+Name: system/etc/security/cacerts/7999be0d.0
+SHA1-Digest: Y1fSp79Il7ssJJxn6Hi1lfyqI5Y=
+
+Name: system/bin/mm-jpeg-dec-test
+SHA1-Digest: HLb26HPwz2EFHoEXfBZijr5DVRY=
+
+Name: system/b2g/webapps/video.gaiamobile.org/application.zip
+SHA1-Digest: Lbg2xHUxkpNKqHSCgjnU0p6pHKk=
+
+Name: system/etc/security/cacerts/1dcd6f4c.0
+SHA1-Digest: J/9p1bSc/vj7DXamP+uHmvUOn2c=
+
+Name: system/etc/security/cacerts/9772ca32.0
+SHA1-Digest: LX2TMuCYXRh8QFOPADSkAjvHbuE=
+
+Name: system/lib/libchromatix_sn12m0pz_preview.so
+SHA1-Digest: gGGk47CWY0me29GXZrQYDPZ4CUc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/default.css
+SHA1-Digest: ZW1Z13PUD9nuqVYSWiloOLOFEvI=
+
+Name: system/b2g/webapps/video.gaiamobile.org/manifest.webapp
+SHA1-Digest: O1VjZSqwuVsC55NzawmL+yxOCsg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-br.properties
+SHA1-Digest: McaI9yEZc2yTetJscekT8xe1KMA=
+
+Name: system/lib/libOmxQcelpHwDec.so
+SHA1-Digest: eOK7f7zdo8s8G5YUql0dWQ9gcSI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sk.properties
+SHA1-Digest: K2rR7HR2wv88LMbahhkfjrnPGBk=
+
+Name: system/etc/security/cacerts/5e4e69e7.0
+SHA1-Digest: OPYnMzF7mxzqxH56G6+9Io0+wns=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/iphone.css
+SHA1-Digest: XXiDOuhAwTylkjVx7nyuGWJz0ZM=
+
+Name: system/lib/libgemini.so
+SHA1-Digest: SJV44akdhv8qTTAP9lidEMZoswo=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/W_launchicon_48_1101.png
+SHA1-Digest: p4yPosfy+k56LtEZvYBlnevHuT8=
+
+Name: system/lib/libz.so
+SHA1-Digest: 5mXBvDB4FzeIQfUpw0uis6DcZAU=
+
+Name: system/lib/libSR_AudioIn.so
+SHA1-Digest: UcHhg0clZ7pDRQTKNPsZ9UVtPd0=
+
+Name: system/lib/libqmi_encdec.so
+SHA1-Digest: 4q9UGe/EPnHIM58tvKjO5fEMjqc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/ios/toolbar-nearby.png
+SHA1-Digest: orAgsgqkK/EW4NMmDjkLvLR3Nl0=
+
+Name: system/etc/security/cacerts/111e6273.0
+SHA1-Digest: Ws4Pq966Jvp4ZXfGW5/zAefw3Es=
+
+Name: system/lib/libaudioalsa.so
+SHA1-Digest: PRxTEgpBs1dGXkhCD2gbOnzVLpk=
+
+Name: system/fonts/DroidSerif-Regular.ttf
+SHA1-Digest: rdDAMVoPkeYHrAGCh/yUOvTm5UE=
+
+Name: system/fonts/SourceCodePro-Light.ttf
+SHA1-Digest: +stnjdH9NU6ux++vfJMw/XGRQ8I=
+
+Name: system/bin/b2g-info
+SHA1-Digest: apeiEVcm1eLtPxGVam7P61GewVg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ wikiapp.css
+SHA1-Digest: ITEu9AiwZrITowoHr8t+vwtUOS4=
+
+Name: system/b2g/components/binary.manifest
+SHA1-Digest: wOJ1+a510e2YZ/3oe0quQaKbOwc=
+
+Name: system/etc/vold.fstab
+SHA1-Digest: Ev+CxZJZbse87qW+T15qakbC+A8=
+
+Name: system/bin/ip6tables
+SHA1-Digest: KfHa03m8qgQQDSTRLEZAOdpAi8w=
+
+Name: system/b2g/webapps/accuweather/cache/manifest.appcache
+SHA1-Digest: zoKCGpx8s6CV/U3hprjEUqZAbJE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/plugins/aggregation.js
+SHA1-Digest: vuFvlweMzJmgOiIRfyDu4bvXi/A=
+
+Name: system/lib/libmmcamera_wavelet_lib.so
+SHA1-Digest: 9iLqpVA4mjgpaeqaOyCPVZ4ncsY=
+
+Name: system/lib/modules/mtd_stresstest.ko
+SHA1-Digest: RQFQ96ScLNHbm2d0UZ9CLQ4Cb4E=
+
+Name: system/etc/security/cacerts/e60bf0c0.0
+SHA1-Digest: qso/01ui1WfhOpSAedhVrLUBpW0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/logo.png
+SHA1-Digest: cWLX4tAc1UdkFJmRMSoJ0WUWMFk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-th.properties
+SHA1-Digest: sD8nPwvyQ8q/xdYj0fZ3H2kdxlo=
+
+Name: system/etc/security/cacerts/3ad48a91.0
+SHA1-Digest: HZXjr9IxEdl/bLsWXl0vBzOswmE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/close-button.png
+SHA1-Digest: ts4KBOECKPBWpXwENyvAl+TM9iI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-yo.properties
+SHA1-Digest: rCuHozCYgj1DT+geGKyt5aXioCY=
+
+Name: system/b2g/webapps/costcontrol.gaiamobile.org/application.zip
+SHA1-Digest: Xh+00dlBxghJtwLE/ys/n3v1qKw=
+
+Name: system/lib/libOmxAmrwbDec.so
+SHA1-Digest: qKOddjpvelM7FUFjn8ezYc3nmkM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/references.css
+SHA1-Digest: 2uingJjKnv3fCeq2BJrY3ThIdmY=
+
+Name: system/lib/libchromatix_s5k4e1_default_video.so
+SHA1-Digest: xUq42M57LrnVR9YIeRlDeVZ7DYU=
+
+Name: system/lib/hw/lights.msm7627a.so
+SHA1-Digest: UhFAyicfMGgnAkZcai1HZMP/Sz8=
+
+Name: system/etc/security/cacerts/08aef7bb.0
+SHA1-Digest: XVcxHM5N/xsTnkuy9vaaWCBrlTw=
+
+Name: system/bin/mm-adec-omxQcelp13-test
+SHA1-Digest: edUe7G7Dx20pMACi3pQNtbtD/eg=
+
+Name: system/etc/init.qcom.post_boot.sh
+SHA1-Digest: qEQlkARumfb9ZZBOxnBTVTor54I=
+
+Name: system/etc/bluetooth/main.conf
+SHA1-Digest: LZfzMMORIUZ93J6YCDAyXR5bbLw=
+
+Name: system/b2g/application.ini
+SHA1-Digest: /E209DWkGwBwA1ENnI8ipOooVaQ=
+
+Name: system/lib/libstagefright_soft_mp3dec.so
+SHA1-Digest: 4ZzicXFza01ocA3gpd0ulkjrXsA=
+
+Name: system/lib/libchromatix_mt9p012_ar.so
+SHA1-Digest: eSQIFb7DOeSLRwMlRArWiktH2sg=
+
+Name: system/etc/security/cacerts/3c860d51.0
+SHA1-Digest: 3MirMMMxVPDIjrUJzJT9kQaASwQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ky.properties
+SHA1-Digest: V6L1rTBqCacaaoD+HccqWrsM+J8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-tl.properties
+SHA1-Digest: 3588P7emWOM2aGCDqS1nieBc4X8=
+
+Name: system/bin/p2p_supplicant
+SHA1-Digest: vlljbvfNQ9fATQw0FitaOIVg3KQ=
+
+Name: system/lib/libloc_api-rpc-qc.so
+SHA1-Digest: ZQdnv5mHZyYPXMO26ksOCx4qGWU=
+
+Name: system/fonts/FeuraSans-Light.ttf
+SHA1-Digest: Dk/YC0hjH6khCl4v8gYbyPn9nR8=
+
+Name: system/etc/security/cacerts/87753b0d.0
+SHA1-Digest: pDoFkt0ow4oMrnwoJ8V53XXw608=
+
+Name: system/lib/libemoji.so
+SHA1-Digest: ChS4wRJiPa+bCmd8Z07fiiQAoR4=
+
+Name: system/lib/libstagefright_soft_mpeg4dec.so
+SHA1-Digest: jG+KBm28iizlkE/oE2W+HwRMm8c=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-qqq.properties
+SHA1-Digest: fHMHKEC2fu/4bfSUJv0p+nIsfwM=
+
+Name: system/usr/keylayout/Vendor_046d_Product_c532.kl
+SHA1-Digest: uLc7pyyR3HK7SZbqxNhxTnBjvQU=
+
+Name: system/xbin/avinfo
+SHA1-Digest: U4N4oIs3kbLyjOic6S4msGh5TNk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-frr.properties
+SHA1-Digest: WDZmVAU4YwN+tzRMTom7tIiZcz4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ml.properties
+SHA1-Digest: +3tIWnq561SzsD0IDB9nDUcmcr4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/common.css
+SHA1-Digest: 1vUCpEUv1Uj3IQTWIfClvdHoKgM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/main.js
+SHA1-Digest: zxMg5O8NfFBTu+jk+6pvfpYnVPU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ app.css
+SHA1-Digest: Lg6DTxTD1FJRddt5ZW/GtUnh8ew=
+
+Name: system/lib/libchromatix_ov5647_default_video.so
+SHA1-Digest: GksqCyQ/8k8xINfHlG6PaZyAoiY=
+
+Name: system/lib/libchromatix_mt9e013_default_video.so
+SHA1-Digest: gIbilf7Nd1XmFrgfa40CRYgnLJE=
+
+Name: system/fonts/AndroidClock.ttf
+SHA1-Digest: SwKcMGDzVbbA3ny3+tJbieABH4s=
+
+Name: system/lib/hw/hwcomposer.msm7627a.so
+SHA1-Digest: OO1MzRootvXp84O7bf32dcuBdYc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/iphone2.css
+SHA1-Digest: LZNt6ZZMVfkt5zmMbV5Nc7eR+Oc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-pl.properties
+SHA1-Digest: L8vPOl97h4sx3a6Vwch2KaBW/B4=
+
+Name: system/etc/security/cacerts/76579174.0
+SHA1-Digest: pzzaX91VWO/hKUAL6vLTr/M9//8=
+
+Name: system/etc/security/cacerts/48478734.0
+SHA1-Digest: DD+Jf/xyWUb9vB7awEI1t/6+AM0=
+
+Name: system/lib/libvorbisidec.so
+SHA1-Digest: dhvThufEcHgDJadZmpSVS+7Rkc8=
+
+Name: system/bin/Unicode_test
+SHA1-Digest: iRJHa7HoiubNjnban8MfdzfOwQ4=
+
+Name: system/etc/security/cacerts/9339512a.0
+SHA1-Digest: mQ4WSgNEy6kTq/gCEHGaZMW5sY0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/mf-navigation.js
+SHA1-Digest: Aw5RKgTs1PbiumC4ht5PfVItWsY=
+
+Name: system/etc/firmware/yamato_pfp.fw
+SHA1-Digest: WSaNlagyXKvr/rXCOfjbZqKKbEE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/button-dark-back.png
+SHA1-Digest: fu3dvZ68o11B4/esjIkTR1YySTc=
+
+Name: system/etc/permissions/android.hardware.wifi.xml
+SHA1-Digest: oHkBECWfFLtDqANIBIPZoPQ2mkU=
+
+Name: system/bin/racoon
+SHA1-Digest: 5fLEGZI4IxWhMcAeeIZ7UdJvrYo=
+
+Name: system/fonts/CharisSILCompact-BI.ttf
+SHA1-Digest: Cr/bC/mjaWJ2HksPKTDWMsY50dY=
+
+Name: system/etc/security/cacerts/f80cc7f6.0
+SHA1-Digest: W8bDrAuHeemBUG1E6My97G/SuFg=
+
+Name: system/bin/pand
+SHA1-Digest: 4eRTIuP8E937Re+v1/XSnU5zEmc=
+
+Name: system/usr/keychars/Virtual.kcm
+SHA1-Digest: mJTWbB/aQkj438tUB+KxbSlBvNI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-de.properties
+SHA1-Digest: 1qKVkkAtk3LxXaGk/fe05l6GMQY=
+
+Name: system/etc/security/cacerts/69105f4f.0
+SHA1-Digest: jltP5Tn1V+xLjDQLZwAgoHqzxc0=
+
+Name: system/etc/bluetooth/input.conf
+SHA1-Digest: Y/By99uRCUpOsQ7WtQZrnrEoLaI=
+
+Name: system/b2g/webapps/homescreen.gaiamobile.org/application.zip
+SHA1-Digest: NINzc/Rfpf+NnSAcpMKIs73hD5w=
+
+Name: system/etc/BCM4330B1_002.001.032.0518.0520.hcd
+SHA1-Digest: j8jZbeD1xUILGkgh32lXKB1661M=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-lv.properties
+SHA1-Digest: NM13JAKQYU/ydwdUmU9H8ws8mB4=
+
+Name: system/bin/powertop
+SHA1-Digest: /OcC4asI33XsLnQgkpw0c4quziU=
+
+Name: system/etc/security/cacerts/5cf9d536.0
+SHA1-Digest: EX93MpxobY/BeHpdRW+gBO+pVKE=
+
+Name: system/etc/firmware/ath6k/AR6003/hw2.1.1/athtcmd_ram.bin
+SHA1-Digest: I29OB5MoiCLAs/oOMFUHCD/HmjU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/mw.png
+SHA1-Digest: RQ8YoKT/i+2tJcwtAaGyUqxvIFk=
+
+Name: system/lib/libstdc++.so
+SHA1-Digest: VYBokhlQk0Tml+LnBj+9CAXod5I=
+
+Name: system/bin/ping6
+SHA1-Digest: sW+t0LPlhvjItyWVjJo221JjBtI=
+
+Name: system/lib/hw/audio.a2dp.default.so
+SHA1-Digest: R8UNrLQ91gXeDtlzt+H3ymopAEY=
+
+Name: system/lib/libcameraservice.so
+SHA1-Digest: SRNUTW/ZldksYlljuP7QLvjrJVw=
+
+Name: system/lib/libchromatix_qs_mt9p017_preview.so
+SHA1-Digest: GZt0KXiIq3vXQpfB+69c91B3Jyo=
+
+Name: system/fonts/Roboto-BoldCondensed.ttf
+SHA1-Digest: yIM3+kgEjmn3/5+tyTtApKjKgTo=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/jquery.localize.js
+SHA1-Digest: zRx+ywUTiV2FKbRsHjzHVG85zhA=
+
+Name: system/lib/libstagefright_soft_vorbisdec.so
+SHA1-Digest: hGu7PxRxnvGSFsDbBB0f4HFvkyY=
+
+Name: system/lib/libzipfile.so
+SHA1-Digest: i/n3336oNV7fngAlNwz0mnSjKBM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/localFile.js
+SHA1-Digest: /d+tijJQOdSUUyQueGwcT/XQfi0=
+
+Name: system/etc/firmware/Ver11_20120409_N880E_9980_ID0x57_ATLAS40_app
+ .bin
+SHA1-Digest: tDKfqW9JJ7vWqUbBw6vgE66TBzA=
+
+Name: system/usr/share/zoneinfo/zoneinfo.dat
+SHA1-Digest: JBU5oAeoDVthVpXH3cjMq9Ra+U8=
+
+Name: system/lib/modules/cfg80211.ko
+SHA1-Digest: fFa3zK2JfIpIJLextA5DTXkAZBI=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/nokia.css
+SHA1-Digest: TJxrzwZhaEVtFVDj+fXVL+Z/OrI=
+
+Name: system/lib/libSHIMDivxDrm.so
+SHA1-Digest: ZKswq13fP34L6KTsgdxeaM288JA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/s-hdpi.png
+SHA1-Digest: 1Ts51xzIps4Zykz1oLPUO3JgHEk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/wikiapp.js
+SHA1-Digest: tcO1Nvp8bpPfmXXemBdiXaYiQ7E=
+
+Name: system/lib/libhardware.so
+SHA1-Digest: fEjhh5e3o0TMA2CHK1uiHIBhMrw=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/plugins/callbacks.js
+SHA1-Digest: 6QaUC7Ah3Jp+GLNbhG4IzTv3EfA=
+
+Name: system/etc/firmware/ath6k/AR6003/hw2.1.1/bdata.bin
+SHA1-Digest: /JFRV/A8oDdx/lLDObFZL1xYRv4=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_ril/libqc_b2g_ril.so
+SHA1-Digest: tK0sefd7/kfgivkhaPbR84oFetk=
+
+Name: system/lib/libc.so
+SHA1-Digest: koCH3gPibTNwcoGGjCYBYYsj3z4=
+
+Name: system/xbin/showmap
+SHA1-Digest: hNdw/qqT3+ligjSsXgVzrSnE+uo=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest: kb9csRapQQtE9HzfquRu/AX32Tw=
+
+Name: system/lib/libui.so
+SHA1-Digest: iitC1sDe7HsT7sdpyKO6Sccs03Q=
+
+Name: system/lib/libext2_profile.so
+SHA1-Digest: CvT0cWs3y9lcC1XATjtVK/DGXMk=
+
+Name: system/xbin/agent
+SHA1-Digest: dBBvNkbkPUD0E35iGQoW8rZs6aY=
+
+Name: system/lib/libgui.so
+SHA1-Digest: mF82O5xiORxYAkcQEv5K1dSrYU8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/leaflet/images/zoom-out.png
+SHA1-Digest: ftI/ZY+PXPAXtUNHs2BtwKVUddU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ksh.properties
+SHA1-Digest: O+6DrrESxqvCG4Ht51Fm0L1PB2s=
+
+Name: system/etc/security/cacerts/bf64f35b.0
+SHA1-Digest: PatpGMTkqlaTNx343GS4IRRAciA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-fr.properties
+SHA1-Digest: 24f+NxGS7HSzbjTSVtYvd5LcqsI=
+
+Name: system/lib/libOpenVG.so
+SHA1-Digest: UF6MS5gzBrjdbs0+kgHFUXY7mlY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ta.properties
+SHA1-Digest: Y7J4AhoCH0nwQOYjO+mgxM2OWGA=
+
+Name: system/fonts/SourceCodePro-Bold.ttf
+SHA1-Digest: 0teCU2rfqpHtpjgYZ/j5M7plr6M=
+
+Name: system/lib/libinput.so
+SHA1-Digest: B0EDNqDPj0380qo7oOGkAP52Tcg=
+
+Name: system/bin/qosmgr
+SHA1-Digest: Gu/OXVfkKZ9kZardNnsW7JZvkqQ=
+
+Name: system/etc/security/cacerts/ddc328ff.0
+SHA1-Digest: m7wpaMvUt7aZwH71jNnWNpI/W/o=
+
+Name: system/b2g/libnssutil3.so
+SHA1-Digest: sYUDcVNqoWy/cV9d+tdJaKWaPFc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/close-button-beta.png
+SHA1-Digest: FaicOYFQJ1++ohDLFsnLbgwv2w0=
+
+Name: system/b2g/webapps/music.gaiamobile.org/manifest.webapp
+SHA1-Digest: uAncLrat+MkHi4KvMEwQVrBhx6A=
+
+Name: system/etc/security/cacerts/418595b9.0
+SHA1-Digest: EurtZmuo2p5AcFiyeJVA1GXOrHs=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-te.properties
+SHA1-Digest: nddQupfdlgxXyBnKTJSJLpegbeg=
+
+Name: system/usr/idc/cyttsp-i2c.idc
+SHA1-Digest: QCanfxOcuef6Jt/12EIRuUBNaOw=
+
+Name: system/lib/librtp_jni.so
+SHA1-Digest: FS77HJP3UKb5Xhcbmt5ohMlRfIs=
+
+Name: system/etc/bluetooth/blacklist.conf
+SHA1-Digest: /NVpapHNK5NICIClWd0zLSqpX2Y=
+
+Name: system/lib/egl/eglsubAndroid.so
+SHA1-Digest: 6ny5/2gerOMWDc2mHDqdyl2GhOY=
+
+Name: system/etc/init.qcom.efs.sync.sh
+SHA1-Digest: /hfiLUSsVJegmoNcLDk2cF6zN/w=
+
+Name: system/b2g/webapps/camera.gaiamobile.org/manifest.webapp
+SHA1-Digest: /cMaOc3UzqyLvJRz+Q36WkqOeVY=
+
+Name: system/bin/applypatch
+SHA1-Digest: KTqubuIcu0RpzEdubrn1riznXf0=
+
+Name: system/lib/libmedia_jni.so
+SHA1-Digest: 50vWVJW6kEri8XSMDPxHUjlVDmQ=
+
+Name: system/b2g/webapps/calendar.gaiamobile.org/manifest.webapp
+SHA1-Digest: j0fzM8EKJOKUa2kqNUhaFWV7fxc=
+
+Name: system/usr/srec/config/en.us/models/generic11_m.swimdl
+SHA1-Digest: REX20baAUwoqpKFT+1FzKuave5I=
+
+Name: system/b2g/webapps/calculator/application.zip
+SHA1-Digest: D5kGJGyVX2AlSDOIsffg0w28eBg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/adapters/blackberry-persistent-storage.js
+SHA1-Digest: jeGow1aYErDKGso9piRBkORFPaM=
+
+Name: system/etc/mkshrc
+SHA1-Digest: 2/9z5OCBkxSLkUyoZ0O9lvL69JU=
+
+Name: system/lib/libpower.so
+SHA1-Digest: i900yxs2jJ1vY8pNh/BwGIjxG1k=
+
+Name: system/etc/security/cacerts/d8274e24.0
+SHA1-Digest: ggueFUwteH2USaNRFI+bu48RY2w=
+
+Name: system/etc/wifi/p2p_supplicant.conf
+SHA1-Digest: aH/rZUG8RqLh1ljdWX3iPbYsp4Q=
+
+Name: system/fonts/Roboto-BoldCondensedItalic.ttf
+SHA1-Digest: HhwLujq6/VqwKaww5YlyH7dQqtA=
+
+Name: system/xbin/showslab
+SHA1-Digest: 71GczlA1iuQCr/a9fOHuuFKxA9A=
+
+Name: system/lib/libsonivox.so
+SHA1-Digest: U0dMxDJ6jDKY8NDoI3MLJCI4xNo=
+
+Name: system/etc/media_profiles.xml
+SHA1-Digest: apUXgc35/Z4S0JMkTHofHVVvtpg=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_ril/test/tf_consts.js
+SHA1-Digest: htv6tBUE4KXRoRQ3fZwb9+wl5RI=
+
+Name: system/lib/libstagefright.so
+SHA1-Digest: fy55qdtb2aBBSpcFIxnmTmN/mgo=
+
+Name: system/etc/permissions/android.hardware.sensor.gyroscope.xml
+SHA1-Digest: DhtVHxHAeMpMhNawakMGfQRTkR0=
+
+Name: system/bin/busybox
+SHA1-Digest: /A4e7qaAyIURO7d7h+v8QMvB5X8=
+
+Name: system/lib/modules/mtd_readtest.ko
+SHA1-Digest: IrtN1PqlzQaq4RQSdR9/hAF+Xsw=
+
+Name: system/fonts/SourceSansPro-Black.ttf
+SHA1-Digest: JZ6HJ0GMkpRyilFbZjks1eS/Mdc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/show.png
+SHA1-Digest: jQi9yZiV+8AvA6OBHwwTbrRVIAA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sl.properties
+SHA1-Digest: sK2OQLhlPni9RdUEKb2K1+38ACo=
+
+Name: system/usr/idc/Atmel_maXTouch_Touchscreen_controller.idc
+SHA1-Digest: qavyjexwqyn1kxaaFZ/IauHmGW4=
+
+Name: system/xbin/sqlite3
+SHA1-Digest: nFpHj1ixZq2thJEq1FT9++McskA=
+
+Name: system/etc/security/cacerts/72f369af.0
+SHA1-Digest: B0FekN7giev0q4MtHFobsMO8JOw=
+
+Name: system/bin/test_diag
+SHA1-Digest: l5HscTJB1nEbTWVT6YBqrR/DAZk=
+
+Name: system/etc/security/cacerts/d777342d.0
+SHA1-Digest: KqcaEKbpbxK/ZskNhdSlNwqFbY4=
+
+Name: system/lib/drm/libfwdlockengine.so
+SHA1-Digest: J5kJCG6QE7Xgyki8F3dD+BivgBo=
+
+Name: system/fonts/SourceCodePro-Semibold.ttf
+SHA1-Digest: ea6G3tW4DiSaActTiZmBsoL81G8=
+
+Name: system/etc/security/cacerts/84cba82f.0
+SHA1-Digest: RbfVG4qh9BQlLNlkl+9eQ/iwr90=
+
+Name: system/etc/security/cacerts/399e7759.0
+SHA1-Digest: C7nniIwXMNqhQza0pF0/S/7ALuk=
+
+Name: system/b2g/webapps/accuweather/cache/offline.html
+SHA1-Digest: rnQ3T2Y+6daJJq1OEEecKE9YDlw=
+
+Name: system/b2g/webapps/gallery.gaiamobile.org/application.zip
+SHA1-Digest: xk8ye97XXHwnqrPGbC71C0VYxKA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/leaflet/images/marker.png
+SHA1-Digest: hhDfQMgUakq6/V8Xb4M4jY8/klY=
+
+Name: system/bin/diag_klog
+SHA1-Digest: S8WkwZ9QKQIO2HsNdBNSII1JxC8=
+
+Name: system/xbin/scp
+SHA1-Digest: KbU/Cq2yCXwW5577HHbli9UcZaI=
+
+Name: system/etc/security/cacerts/c33a80d4.0
+SHA1-Digest: ZTkS7A41GnAd7Uu805vZ8M+6c2M=
+
+Name: system/bin/gatttool
+SHA1-Digest: A0M6KgUUbazjFCArZ+NIX1dDKZc=
+
+Name: system/etc/security/cacerts/b7db1890.0
+SHA1-Digest: PnsdiNOuklg1r+/IRDgFBHM0gW8=
+
+Name: system/etc/security/cacerts/bc3f2570.0
+SHA1-Digest: Djn1z26jqNrHK/cY3pNLU/I9bN8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/w.gif
+SHA1-Digest: GhyURCLPZCLlzDN8XnK9T9f6uAU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ady-cyrl.properties
+SHA1-Digest: f4iQxtIn8TXET5rvLX31/oQZHs4=
+
+Name: system/lib/libstagefright_yuv.so
+SHA1-Digest: qHDGc6/1qS2DZLDx17PQw6Rbp2Q=
+
+Name: system/b2g/webapps/homescreen.gaiamobile.org/manifest.webapp
+SHA1-Digest: 6NQ4Xx476u3Rc+Ius9863hWafVc=
+
+Name: system/b2g/webapps/keyboard.gaiamobile.org/manifest.webapp
+SHA1-Digest: ePKCKmgnrb3T3zN/0RJ6GLfXddA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/logo.png
+SHA1-Digest: d+MZUBDWSI6I/N0cr1MSSXrK2h4=
+
+Name: system/lib/libdsutils.so
+SHA1-Digest: ve2GPuHbYOFeFEBqnaebVKqGY4E=
+
+Name: system/xbin/librank
+SHA1-Digest: Z6Rs855WuZS1PoQUSmukt7XrNyo=
+
+Name: system/bin/logcat
+SHA1-Digest: JNjYFgpT87GSZOnhkl5cCv70hoA=
+
+Name: system/bin/run-as
+SHA1-Digest: 9dclU+uToiDO8qVhAc+x22PGAPY=
+
+Name: oemsbl.mbn
+SHA1-Digest: KVEhrZniiyZgitPjWXabiEu9csA=
+
+Name: system/usr/srec/config/en.us/models/generic8_m.swimdl
+SHA1-Digest: XJZq9k/wtjPuUrP1MbJNulTtfGM=
+
+Name: system/bin/dumpstate
+SHA1-Digest: j0KuFAnE5TrRDMpR2pnX1Hj89W0=
+
+Name: system/fonts/DroidSerif-Italic.ttf
+SHA1-Digest: aCx+e4yyj8kOYcR5otukddlLoMo=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/clearicon.png
+SHA1-Digest: +FaiUht9+zi71QMOq/IMBBv2aq0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-diq.properties
+SHA1-Digest: fnRNG+dAMu3h/bv0J3g0Xdk86/k=
+
+Name: system/lib/modules/mtd_pagetest.ko
+SHA1-Digest: ycekz69dAeB+1TQGgaMalKpEQOs=
+
+Name: system/lib/libOmxQcelp13Dec.so
+SHA1-Digest: u1XBPxYBg8SSxm9rbm3ImV++Pc4=
+
+Name: system/bin/xtwifi-inet-agent
+SHA1-Digest: sQilGN+mmNvg6swDjit+T6aEX4M=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/ios/toolbar-output.png
+SHA1-Digest: lc+w159jo7bR6fPH8ABqZHeI1r0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/webkit.css
+SHA1-Digest: 5lWI4I5CVNNoYM+h1Uql25FWi8A=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/button-light-wiki.png
+SHA1-Digest: wLDi5YJYn7r39BmzaQKsBs2a/No=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-li.properties
+SHA1-Digest: Ygp3MCRfFolhnW/9XJccojK44cE=
+
+Name: system/xbin/bdaddr
+SHA1-Digest: UVrkln0cGBp0wdXttIRDg3ngoYE=
+
+Name: system/lib/libbluetooth.so
+SHA1-Digest: A5mDFTf0NxlkTR+Dv1B7+PLs6Oc=
+
+Name: system/fonts/DroidSansFallback.ttf
+SHA1-Digest: g0AIbAEWRNYGqGIXLdUi5oy9jfA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/logo-en.png
+SHA1-Digest: yMW3jrIXEI2WvJDJgv8FlVIv67k=
+
+Name: system/etc/security/cacerts/1920cacb.0
+SHA1-Digest: jnyFPukRwUWlDtLf5/32Yj9FaSY=
+
+Name: system/bin/diag_dci_client
+SHA1-Digest: kY4kq3qXxcRh4VRtsFlQ4e+yLfc=
+
+Name: system/lib/libOmxQcelp13Enc.so
+SHA1-Digest: upPV86bx4Q1zBLxdUXGEvduRjo4=
+
+Name: system/lib/liballjoyn.so
+SHA1-Digest: Cdj+3I3yUFDEpSDHggJB2qZb0wU=
+
+Name: system/lib/libqmi_csi.so
+SHA1-Digest: D0Jl/wAFDVRNm49H/MaoMUh2R8M=
+
+Name: system/etc/permissions/android.hardware.wifi.direct.xml
+SHA1-Digest: iPmbEsXxaKyWbEdVZcAxkacBUr0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/application.js
+SHA1-Digest: ATJb6k/in8QuC1jf65xz+KJbibY=
+
+Name: system/lib/libbinder.so
+SHA1-Digest: qKKFiwnYOApB1d6Fuuh2PmlfH44=
+
+Name: system/media/bootanimation.zip
+SHA1-Digest: 8405guuaxV6ap2wD8kzvrIn2EIM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/logo-copyright-en.png
+SHA1-Digest: UJxgJY8ol4G6ignmvcWCml8N7pg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/buttonbg.gif
+SHA1-Digest: Fd3ConNbSHnqS9SYxTXNyANBiAc=
+
+Name: system/bin/curl
+SHA1-Digest: 5O1RG0rh63YJGn0mv+sdKqcTLlY=
+
+Name: system/b2g/webapps/wallpaper.gaiamobile.org/manifest.webapp
+SHA1-Digest: fCeL0btqhhcgNDcSj4bw3zrJnJY=
+
+Name: system/b2g/webapps/costcontrol.gaiamobile.org/manifest.webapp
+SHA1-Digest: T5hfaE0DeGSlbUNO/0I4Hxs+hkg=
+
+Name: system/lib/libmmjpeg.so
+SHA1-Digest: Rtdie7d9iCGLfknyp3s5yNXBeXw=
+
+Name: system/lib/libsurfaceflinger_client.so
+SHA1-Digest: PNg/B4V25H2AqM3zrT0tnnjRA/Q=
+
+Name: system/etc/security/cacerts/9dbefe7b.0
+SHA1-Digest: yGiY2vyvGY8f13llDmyVgk0uikM=
+
+Name: system/etc/init.qcom.fm.sh
+SHA1-Digest: ngCrMJ17uBkx8ipM10jMyEq1q68=
+
+Name: system/fonts/Roboto-ThinItalic.ttf
+SHA1-Digest: cYD/J7Hc9pZhZif5Mg095godThw=
+
+Name: system/etc/security/cacerts/2afc57aa.0
+SHA1-Digest: nPKWafPr4jvpuNF1YPzwOiNGfjw=
+
+Name: system/bin/artagent
+SHA1-Digest: 68Ip4G4d00nQvHD3ETL5/Er10p4=
+
+Name: system/etc/security/cacerts/343eb6cb.0
+SHA1-Digest: rYcngakSpBQiNzp/GrZRITUXhlE=
+
+Name: system/etc/security/cacerts/d537fba6.0
+SHA1-Digest: 4R+LXj2wGe4iRwjgn1A1cvhf/n8=
+
+Name: system/lib/libgesture_client.so
+SHA1-Digest: 2m2qMN3XWvIm5LJ7d3qUaZo9z7I=
+
+Name: system/lib/libqsap_sdk.so
+SHA1-Digest: W0VtAtCBS1hFLckty5a68dI5AVQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/button-dark-back.png
+SHA1-Digest: B0Vl5K4goYPdKO+ygKARnjFwgaw=
+
+Name: system/lib/libnativehelper.so
+SHA1-Digest: +VuEJBz4E3Dc4/2zPNC+CSX9n6A=
+
+Name: system/bin/service
+SHA1-Digest: OZ6vjI0RXDLuQ8vu/4xTurMyVYU=
+
+Name: system/lib/libI420colorconvert.so
+SHA1-Digest: BA4H6RI90LwC2KnqbhdSJf4Y9p8=
+
+Name: system/bin/location-mq
+SHA1-Digest: nWckTOfGJ/W9JCROieqlEwmTqhA=
+
+Name: system/bin/netcfg
+SHA1-Digest: ND3DJ4vnpTzC6bDqqcTFReKdhIU=
+
+Name: system/xbin/hcidump
+SHA1-Digest: gjElTsuLy2MQpmgCcfCjwNSpfSA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/spinner.gif
+SHA1-Digest: zbxLQnqGaG5P3vGKQCiLVi8CrIQ=
+
+Name: system/bin/servicemanager
+SHA1-Digest: YFxVbMmPWvW0Dt7pnlyCn/VDsMQ=
+
+Name: system/etc/security/cacerts/0d188d89.0
+SHA1-Digest: FzoOvFUf3dNV/AEJ20wcfK1JUGk=
+
+Name: system/b2g/webapps/pdfjs.gaiamobile.org/application.zip
+SHA1-Digest: jVXD8FGIEO+jcErATo6h+Gi6diE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-pms.properties
+SHA1-Digest: 5FXaDmt9N2ZuWjVf4xXntYW9nac=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-fa.properties
+SHA1-Digest: TYAPaIrp1M3rZbc0rdhi7KxRpl4=
+
+Name: system/lib/libloc_ext.so
+SHA1-Digest: IgDbt1RGQTLSK355py/pMFH6Q98=
+
+Name: system/usr/share/zoneinfo/zoneinfo.idx
+SHA1-Digest: 14XpAqSsZ+aSnTKimlL2WRFIOak=
+
+Name: system/lib/libqmi.so
+SHA1-Digest: 8WNbtEpDLqOwHueGB2vnjxrzEXA=
+
+Name: system/usr/idc/qwerty2.idc
+SHA1-Digest: CxeFAjbR656/zttheEGexLMYZio=
+
+Name: system/lib/libvideoeditor_jni.so
+SHA1-Digest: +s5ax70qbpSp2A/2Ae0yAR+xl98=
+
+Name: system/xbin/strace
+SHA1-Digest: zPlLu9veaJLQaufxuDNvN1MwQKI=
+
+Name: system/bin/athtestcmd
+SHA1-Digest: 2qhJTqpDBrT19Pbe0u2zJJNN480=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-eu.properties
+SHA1-Digest: oiT9JOD5NluiiVu9OyftDd+RWBU=
+
+Name: system/lib/modules/scsi_wait_scan.ko
+SHA1-Digest: MbkkIvcLgJ/gvb6LsiohHceN4Yc=
+
+Name: system/bin/hostapd_cli
+SHA1-Digest: AaTgjFhJHWGkbD8i7+Idlj5y6H8=
+
+Name: system/etc/init.qcom.coex.sh
+SHA1-Digest: ZQp+3T/Pw20g6a2pLK78O7D65Ow=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-zh-hant.properties
+SHA1-Digest: gnnvZDAqpvo11d0VhI+LltdyJGM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/menu.js
+SHA1-Digest: RgUKxkHlruPpCHeRJSSMnqcbvdQ=
+
+Name: appsboot.mbn
+SHA1-Digest: YKUr8hYtj/gDdLKw96ZquNsZyvE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-en.properties
+SHA1-Digest: spaaV2IqWrMDMnQqCDBB5ImN7fY=
+
+Name: system/lib/libdl.so
+SHA1-Digest: G9d393bYvMFePVMKbPCyuj539hk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-pt-br.properties
+SHA1-Digest: hpQDNnEwz9ylN8sfz1GgmJA+kyg=
+
+Name: system/bin/simg2img
+SHA1-Digest: BS9EFTZLYOGeebxm5nGkjFqOryI=
+
+Name: system/bin/mm-audio-ctrl-test
+SHA1-Digest: cHP0oMfiQUEvWcQB/XeZXqKyFXQ=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_ril/test/tf_common.js
+SHA1-Digest: /+pMm/uecgxL7s8qns4DUDnIUNw=
+
+Name: system/bin/iwlist
+SHA1-Digest: AE5J55RKhxDhmZ5ooruZ3c5z1po=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/hacks.css
+SHA1-Digest: XnEJVHVOOMWZR12+eqOK7pJDtXY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-hsb.properties
+SHA1-Digest: M4x+MO/HaNP94Iy4Ul5gkA6t6w0=
+
+Name: system/usr/share/zoneinfo/zoneinfo.version
+SHA1-Digest: 3CbbikKEzyJS/C0ESG9VewwCg7s=
+
+Name: boot.img
+SHA1-Digest: cKCWP1GveaE3ewXoAGf3UZ59A+w=
+
+Name: system/lib/libsqlite.so
+SHA1-Digest: JgYELU/bHJVg2XJ0GJ+gnazrIOA=
+
+Name: system/etc/permissions/android.hardware.camera.front.xml
+SHA1-Digest: brba3Lj1cD+5FUB6sCkGYr27DvU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sat.properties
+SHA1-Digest: ofnOguJUFn62bvO/9sll5I5dguA=
+
+Name: system/fonts/SourceCodePro-Regular.ttf
+SHA1-Digest: x7x5O21odmvUTtqgV/pi5Eod0Jg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-qu.properties
+SHA1-Digest: NoJF/x1hf3AkGKl/HK5UqupFeAI=
+
+Name: system/etc/security/cacerts/58a44af1.0
+SHA1-Digest: 4NuW5gozKsdwb1kgkbS9CS2AMzU=
+
+Name: system/etc/security/cacerts/1155c94b.0
+SHA1-Digest: Itv/d3FpM7SIr1DMDQhBhUgrq+c=
+
+Name: system/bin/checklog.sh
+SHA1-Digest: rtASRfjBeyVl2YzLSo+2yfBkhEw=
+
+Name: system/etc/security/cacerts/1dbdda5b.0
+SHA1-Digest: Z8P5gTMftWn5WsxGoaWi5Ewsbjc=
+
+Name: system/etc/security/cacerts/12d55845.0
+SHA1-Digest: oaj59fzV/q9qjIGZjotc01lpf9A=
+
+Name: system/lib/libwilhelm.so
+SHA1-Digest: kh2h//a7JbsuaySOgtHVdBK95eg=
+
+Name: system/lib/libchromatix_vb6801_default_video.so
+SHA1-Digest: eceGpby/XtpGcCJwVyKBmwaaVpU=
+
+Name: system/lib/libqdi.so
+SHA1-Digest: GbjTQYLq/qpQypfpnVo2HUc7m4g=
+
+Name: system/etc/gps.conf
+SHA1-Digest: O7to3JYPdHvE284f8q5FRhM2RyM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ps.properties
+SHA1-Digest: KjspK1lypubzFa9saYgwA8UvOgU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/langlinks.js
+SHA1-Digest: 0Z3QhGlifQhsedx5z0Fs5dwDuAg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-gu.properties
+SHA1-Digest: RrnqLlkUS59Horx9ox6zHlQMYqs=
+
+Name: system/lib/libchromatix_mt9t013_default_video.so
+SHA1-Digest: F112dIJDgiRU+n8gs9C+8Wlr1qs=
+
+Name: system/xbin/hciconfig
+SHA1-Digest: Q6Cu5ymokcY0mt+3uYCIDTfgGYE=
+
+Name: system/lib/libc_malloc_debug_leak.so
+SHA1-Digest: 6Cm+CWmCDnR3/TOj9iTdyRzxJiQ=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-vep.properties
+SHA1-Digest: CqN3tN9Y8LLgyC0hsulOTtBBdqM=
+
+Name: system/usr/keylayout/atmel-touchscreen.kl
+SHA1-Digest: vnGFlgGvQOeJJKjnlp1gqBorYtA=
+
+Name: system/etc/security/cacerts/75680d2e.0
+SHA1-Digest: zmqh8h2o8Hm6tDQfcCh8iNtUuUc=
+
+Name: system/lib/libxml.so
+SHA1-Digest: PcNcdYzx9NiVOvPilBh28NsXTWE=
+
+Name: system/bin/decoder
+SHA1-Digest: Pi6vR1/yayHzGLqwU0VwLyUMtVU=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_ril/SmsHelper.js
+SHA1-Digest: R+uMYMz/E1okGDjJJ5W0GvzeHkQ=
+
+Name: system/lib/libdivxdrmdecrypt.so
+SHA1-Digest: b9Akm/Tzp+lpsRKZ3GY1pT9WR6k=
+
+Name: system/lib/libmedia.so
+SHA1-Digest: DHLx5LdG568tBE4wE73l8BhpIAQ=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_ril/interfaces.manifes
+ t
+SHA1-Digest: vYAw6J8pcNrpCNHVWg2XrPV3g/U=
+
+Name: system/xbin/attest
+SHA1-Digest: ZMQ7C7aKJSxDyMY3GBj8rXnPF6Q=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/plugins/pagination.js
+SHA1-Digest: JAPbWYTHWM6QZzOkJoLsuXVRd/I=
+
+Name: system/lib/libfilterpack_imageproc.so
+SHA1-Digest: 4skwr6RlPo4T5J4VbniJarV/Hl4=
+
+Name: system/lib/libmemalloc.so
+SHA1-Digest: uea12evTRJqOGPMZtMMfJ+p+30k=
+
+Name: system/lib/libmm-abl.so
+SHA1-Digest: ntWI9nll6HH2KZUMGyrGgrj/g0E=
+
+Name: system/fonts/DroidSerif-Bold.ttf
+SHA1-Digest: MlOUKslixMSZJEtMW5rgRjkfMq4=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-lt.properties
+SHA1-Digest: YcOqU2H/6SY+KwpV6grHzAFZ5AU=
+
+Name: system/xbin/micro_bench
+SHA1-Digest: J6qm1PeAlLMuxOwlPW0nhZiHlZI=
+
+Name: system/lib/libOmxVidEnc.so
+SHA1-Digest: fj2eZfpaBtpCIqt0aoREt0wrvu0=
+
+Name: system/etc/system_fonts.xml
+SHA1-Digest: WwOXe/ZT/eLrDx29dycq4I+/N0E=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/jquery.js
+SHA1-Digest: mZrjsVqT+XCnmBzxO8KS6yT7Grs=
+
+Name: system/lib/soundfx/libreverbwrapper.so
+SHA1-Digest: KMVsIC+w3hS7uvWyKLijJEpwvPI=
+
+Name: system/fonts/DroidNaskh-Regular.ttf
+SHA1-Digest: P7dCMAUhKv3kfM8p+8amzPTLfGM=
+
+Name: system/lib/modules/mtd_subpagetest.ko
+SHA1-Digest: CE4ycrShiwvbPmxJiXxUsycoY9Q=
+
+Name: system/etc/security/cacerts/00673b5b.0
+SHA1-Digest: bC6baGqpg7WySAQXIdpwsoA9xLA=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_location/xtradownloade
+ r.js
+SHA1-Digest: aNR1ZutEtsMXIsqSVusnX/66DVg=
+
+Name: system/lib/libexif.so
+SHA1-Digest: q3cOizvxXlDTVIizUdMzw5kot0c=
+
+Name: system/etc/permissions/android.hardware.usb.host.xml
+SHA1-Digest: 4e0iQFffHEDh5vP8Oa9PBa1PxGo=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-tt-cyrl.properties
+SHA1-Digest: kjcatNguTTe0nveZVDfoliF0G4Y=
+
+Name: system/lib/libmmcamera_hdr_lib.so
+SHA1-Digest: MQfMhJKZZJljf1kYS0DFt3/ektM=
+
+Name: system/etc/security/cacerts/6e8bf996.0
+SHA1-Digest: VlozgKv+QbW1H/99/nImmPiyEOI=
+
+Name: system/lib/egl/libGLESv1_CM_adreno200.so
+SHA1-Digest: POiK6eaYUUbBBDcJ6/uVSPHAFUs=
+
+Name: recovery.img
+SHA1-Digest: QMRwmf0cjFd+7BuOlPeXfsdJaZU=
+
+Name: system/lib/libsoundpool.so
+SHA1-Digest: A9oYzprTIW8iEdEnhpbRLZSDI40=
+
+Name: system/xbin/add-property-tag
+SHA1-Digest: R9kVSFUb/uOwLcZn9xNAzJspeu4=
+
+Name: system/etc/security/cacerts/5021a0a2.0
+SHA1-Digest: OsZKswcn/xRvpTKd7JaZpcHdR+o=
+
+Name: system/bin/dspcrashd
+SHA1-Digest: CE69DbazwDIUVw748ko56fGEvqo=
+
+Name: system/etc/audio_effects.conf
+SHA1-Digest: s9cnXouNMNGuLtCOuG1JVXdJYJc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sw.properties
+SHA1-Digest: b8p60nP6XFgfL2izNcwYSP+F65g=
+
+Name: system/lib/libQcomUI.so
+SHA1-Digest: yV0rIFNSzB0K99v6UHq49G3XCKM=
+
+Name: system/lib/libcm.so
+SHA1-Digest: bKe6zkS15RQU67JnZsEvzElAN7k=
+
+Name: system/bin/netmgrd
+SHA1-Digest: +5HNvXWTJBBleO/tsw5AkVQid6w=
+
+Name: system/etc/fallback_fonts.xml
+SHA1-Digest: yt35lZpQ7FxSbmnmoLgIRhXddQc=
+
+Name: system/etc/init.qcom.composition_type.sh
+SHA1-Digest: lyyuJWzgwz/JgMlhZpnH6daZe8I=
+
+Name: system/bin/flash_image
+SHA1-Digest: 05ZTLxwUIWoAOAP8GXj9JNlEDJY=
+
+Name: system/bin/b2g-ps
+SHA1-Digest: 9B9k4Y5qrR02+gRzR/JDr/Zytrc=
+
+Name: system/bin/wiperiface_v01
+SHA1-Digest: 45J3vHdmJ8NzG9mXm/b2yTnONcg=
+
+Name: system/lib/libchromatix_vb6801_preview.so
+SHA1-Digest: BEofbz7Vsbn3exWYihgzkzpWqXI=
+
+Name: system/lib/libdiag.so
+SHA1-Digest: W6p+JhWJLx7PZKYIEZ5zdNj275Q=
+
+Name: system/lib/libtilerenderer.so
+SHA1-Digest: oxKvNz6pdt5O6sgmj9XV4GpWUqA=
+
+Name: system/bin/rmt_storage
+SHA1-Digest: NPlcZEXftdkfyt3LpqktASDGVdA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/beta_opensearch.js
+SHA1-Digest: QudCED7j7D2D8hPCIdqFnaiiL8U=
+
+Name: system/b2g/distribution/bundles/libqc_b2g_location/interfaces.ma
+ nifest
+SHA1-Digest: NcbPUqy/lEwcPG6tZxnQEfhNmaA=
+
+Name: system/bin/toolbox
+SHA1-Digest: jTsvCah+G/iHImJx8soSMc/4Lfk=
+
+Name: system/bin/make_ext4fs
+SHA1-Digest: y7z4J/uQ95L81vUUHmMEPp/RAMA=
+
+Name: system/etc/security/cacerts/eb375c3e.0
+SHA1-Digest: 9jrnwjglpn8uhR8xCTFy4wec+Ww=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/s-xhdpi.png
+SHA1-Digest: BJV7GLZ/06qq1u9TL8B6dScPmgM=
+
+Name: system/b2g/webapps/communications.gaiamobile.org/manifest.webapp
+SHA1-Digest: hxXRpt5wvtKbz9NKJp7WORVJWJo=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-cv.properties
+SHA1-Digest: SRFZEbEIBS2/u0ntNEdNU74yqs4=
+
+Name: system/lib/libchromatix_imx072_preview.so
+SHA1-Digest: N07ZxNE+uEGoFexCGMa7b1e8jgc=
+
+Name: system/lib/libuim.so
+SHA1-Digest: dFBIs5SKv9BCuo3PU2eSiWBGU4E=
+
+Name: system/etc/security/cacerts/bda4cc84.0
+SHA1-Digest: /ZztxwPHRyN202+l2rSGg6udDJE=
+
+Name: system/etc/hcidump.sh
+SHA1-Digest: UKrBO9xf0KJfSwdA8VK439cthvA=
+
+Name: system/lib/libharfbuzz.so
+SHA1-Digest: SnPAZX/CTV7q4MJe+rMqnU4ctaY=
+
+Name: system/xbin/rfcomm
+SHA1-Digest: i15Zu9PoA+OgO5t3CTpbDiCVVGI=
+
+Name: system/etc/security/cacerts/ea169617.0
+SHA1-Digest: YCD1HGf7ZhS7lIrL78/hxupCFtA=
+
+Name: system/etc/security/cacerts/72fa7371.0
+SHA1-Digest: sw/ScEhE17ZGzZHg7RJLvGMTN2I=
+
+Name: system/etc/security/cacerts/3d441de8.0
+SHA1-Digest: kgXAr2tpkHl35rHXGMamr1Cpxd4=
+
+Name: system/lib/libmmipstreamsourcehttp.so
+SHA1-Digest: LiC+2qWWKqWGxwzeUPy+jubdpu0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-et.properties
+SHA1-Digest: lMhtBAgHKK0eTCxD0Nz+opT5OXM=
+
+Name: system/etc/security/cacerts/6adf0799.0
+SHA1-Digest: yOpUlfl7ZFCprMcTVr1bX0nCx28=
+
+Name: system/etc/security/cacerts/facacbc6.0
+SHA1-Digest: bZhsIsflntPIp9DFlV2R0Pc4eqc=
+
+Name: system/bin/mpdecision
+SHA1-Digest: xkW6CTobz+E+MFbvpK6DKzwzya0=
+
+Name: system/lib/libctest.so
+SHA1-Digest: 1SepDYXuTKKDLkHv8492skgZAis=
+
+Name: system/lib/libwebrtc_audio_preprocessing.so
+SHA1-Digest: esy6sE4k+riARuAKLt8r3RUTizM=
+
+Name: system/usr/srec/config/en.us/models/generic11_f.swimdl
+SHA1-Digest: 5eK+Uqn7V9+/aGXZDDzZ5MstkII=
+
+Name: system/lib/libidl.so
+SHA1-Digest: 7Imue9MOWmonNxpUM+KzAX1r6iI=
+
+Name: system/etc/security/cacerts/4fbd6bfa.0
+SHA1-Digest: S6TGnIWLIWVHbHri7sRkvgXJHPo=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/watchlist.png
+SHA1-Digest: qKaGsjQ0ADd+IVX+WxbVwMhNymA=
+
+Name: system/bin/applypatch_static
+SHA1-Digest: JgNd0BYmok4WJJ98J9n3OD6mgug=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: XI/Gc18QAznzOwObUPuPMwo/kMs=
+
+Name: system/bin/sf2
+SHA1-Digest: PZcGCdN38BbVJYtCxfkvqNKGQTw=
+
+Name: system/bin/dumpmem.sh
+SHA1-Digest: rH5j+giG8PF1JbxXZwkODWR05vY=
+
+Name: system/lib/hw/sensors.default.so
+SHA1-Digest: 3pk2CJh+SpMYaq09Ui3RvNVHIxw=
+
+Name: system/lib/libhardware_legacy.so
+SHA1-Digest: VxVdIyQ2wmp31oKGuc0WFIKk25g=
+
+Name: system/usr/srec/config/en.us/baseline8k.par
+SHA1-Digest: xxkwHYqQ6wMwPFVXTMJScnVstGM=
+
+Name: system/bin/InputPublisherAndConsumer_test
+SHA1-Digest: MmCRwzTo7mpasbRu/YnYBNn3mCc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-nn.properties
+SHA1-Digest: RqfD6Yq8gx91yqUxcWKLWVbnZAA=
+
+Name: system/b2g/webapps/clock.gaiamobile.org/application.zip
+SHA1-Digest: 30hgcObAkKdVNENFrUIPYf91gYo=
+
+Name: system/lib/libchromatix_mt9p012_km_preview.so
+SHA1-Digest: cigSFv9r1BfghY34cy9blc7mcRU=
+
+Name: system/xbin/check-lost+found
+SHA1-Digest: JcBNm5x+3tB8O/TzVmlgYTPFtWg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-mr.properties
+SHA1-Digest: ItU2usJ7GIvbScGGvc9XamWdqdg=
+
+Name: system/bin/scmst_test
+SHA1-Digest: 9w95qRqifmLeAPeru4AIaK1Rbnk=
+
+Name: system/bin/b2g-procrank
+SHA1-Digest: EUGr8++qLg0C01E4KYp+d9/Jrhw=
+
+Name: system/lib/libdsm.so
+SHA1-Digest: XrkJMzw1LOrT1QBVZTfnIiUnfnw=
+
+Name: system/etc/permissions/android.hardware.sensor.proximity.xml
+SHA1-Digest: XnS+P6QtWXi//4uZhn9zCGLFAOk=
+
+Name: system/lib/libstagefright_soft_g711dec.so
+SHA1-Digest: 9xfj3onBdnZ9phEIvVPKTm6HiGE=
+
+Name: system/usr/srec/config/en.us/g2p/en-US-ttp.data
+SHA1-Digest: TMoAJlQxGPS0YwmkBuVSOTH3Ewg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/noclickdelay.js
+SHA1-Digest: uhawfnSOzwncAphAt8OJPU9TyJM=
+
+Name: system/lib/libGLESv2_dbg.so
+SHA1-Digest: 84SxqjeFff7qNhKcuWxbLVEqrGA=
+
+Name: system/bin/diag_mdlog
+SHA1-Digest: +myQewt4YAmco4YqVmsGhLBq1KU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/arrow-left.png
+SHA1-Digest: Gv2ZNRH0BAqfSpqYk+osK9eUDFM=
+
+Name: system/etc/security/cacerts/fde84897.0
+SHA1-Digest: 1Q5mh0RLzUt7mJgES/HlLi2LFqE=
+
+Name: system/bin/nl_listener
+SHA1-Digest: BN8dXMUEec2W13+e1RN/KhEFsRA=
+
+Name: system/xbin/l2test
+SHA1-Digest: 9K2LPOyqjcXj+OBNknhU0QEnJsA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/search.png
+SHA1-Digest: 25F1WZj2RETc1/wNFuPR+KPPilE=
+
+Name: system/bin/fsck_msdos
+SHA1-Digest: 4M3A/MYoigahx3ZPtXl0tYrsGdc=
+
+Name: system/bin/Looper_test
+SHA1-Digest: eHYHf+dlkWfQnSycUbUu66cL4pU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-bn.properties
+SHA1-Digest: mZhdjpCwqve+P2nUYDWaQemp06w=
+
+Name: system/etc/security/cacerts/ccc52f49.0
+SHA1-Digest: O0+cfSTNAOmAaDWYHOWEHop+Czc=
+
+Name: system/b2g/webapps/wallpaper.gaiamobile.org/application.zip
+SHA1-Digest: WEOzUZz+FRcmV9JEGAEb7rke7D4=
+
+Name: system/lib/liboverlay.so
+SHA1-Digest: SbOuaYJw7d29fIgyPAxyhqlC1Ds=
+
+Name: system/lib/liboncrpc.so
+SHA1-Digest: g5ZI1TAUM5uh8wPB/HSzUBRCHpk=
+
+Name: system/bin/e2fsck
+SHA1-Digest: 7L8PCSd+ANxOqw7rcK+TOYzdJ1M=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/favi
+ con.ico
+SHA1-Digest: BGTPQum+tIpeG1MrF6aofdfzBUI=
+
+Name: system/lib/liblasic.so
+SHA1-Digest: SswwEFic3k4sVITRlvBOqbvJXFo=
+
+Name: system/xbin/hstest
+SHA1-Digest: FxUENJoZG5cBVsIxQddVesQ7t4I=
+
+Name: system/fonts/CharisSILCompact-R.ttf
+SHA1-Digest: Jy5kf2CVs3mqa9CBqJiuj62LwCI=
+
+Name: system/usr/keychars/qwerty2.kcm
+SHA1-Digest: daI1+jRsBLH0AaORU4xCM1Bp4/M=
+
+Name: system/bin/InputReader_test
+SHA1-Digest: HSrPzhz1rQLb/iA07HvYqflIorA=
+
+Name: system/lib/libspeexresampler.so
+SHA1-Digest: BZNDSIzm9xaB8p0UUYYJ3D7HlBA=
+
+Name: system/lib/libGLESv2.so
+SHA1-Digest: C+HAqT0AG2mIxTYKAx2eerZtiwo=
+
+Name: system/lib/libchromatix_ov5647_ar.so
+SHA1-Digest: 2Wl5tuhSGCGFxL/FJwL0x5MZg4g=
+
+Name: system/etc/firmware/ath6k/AR6003/hw2.1.1/fw-3.bin
+SHA1-Digest: k7mTb47QX8Xpgnb3SLE5Nv+wGqs=
+
+Name: system/build.prop
+SHA1-Digest: WXR9E6phZOlWPaDi7rJZtNa3yaE=
+
+Name: system/bin/ds_fmc_appd
+SHA1-Digest: HUrkDxVgRIwr+fGCva5T7Ipw9EE=
+
+Name: system/bin/mm-venc-omx-test
+SHA1-Digest: 87Ay+qJKdrwH+H30zjzFhT0GQZg=
+
+Name: system/b2g/webapps/clock.gaiamobile.org/manifest.webapp
+SHA1-Digest: X/hSJ31uiPG6wTknsEyP2Kzu8+I=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-af.properties
+SHA1-Digest: Cq67ZQrRoW5tHOiLHd9NEpG2ETU=
+
+Name: system/lib/libchromatix_mt9e013_preview.so
+SHA1-Digest: Wth2/p9mJ9558dBXvFgDQQFVKyc=
+
+Name: system/b2g/webapps/pdfjs.gaiamobile.org/manifest.webapp
+SHA1-Digest: 87+H8WX1F+dU2IyHiEOOylyL9Sk=
+
+Name: system/fonts/DroidSansGeorgian.ttf
+SHA1-Digest: TcKNYOeiNvn93qI0a4VO4OsezbA=
+
+Name: system/bin/iwconfig
+SHA1-Digest: 8dPwvxjo2eh+/3EaNvvEz9JTzV0=
+
+Name: system/b2g/webapps/fm.gaiamobile.org/manifest.webapp
+SHA1-Digest: DM7V6c+ExvVCTj7q7WuO8sYVeEg=
+
+Name: system/bin/qmuxd
+SHA1-Digest: fRd7IqWDmJPqELhtpiHsBpALRjQ=
+
+Name: system/lib/egl/libEGL_adreno200.so
+SHA1-Digest: RJnbjjoAS9qCqWX9RzWr1V1h6gA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/palm_pre.css
+SHA1-Digest: oVvLaEHAF+eFvTgDceA+ejOLyk8=
+
+Name: system/bin/debuggerd
+SHA1-Digest: BHwpfru/4dIW5i9q4IK+k5w+las=
+
+Name: system/lib/libpng.so
+SHA1-Digest: R89CKVNC+FyIJvokQ4cDhJKXMEk=
+
+Name: system/etc/security/cacerts/c7e2a638.0
+SHA1-Digest: FNY7YX9aUI4JunnbSM/rvcUd32A=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/100px-globe.png
+SHA1-Digest: AQ9DZDTIYOmtyzVBdVj45AJy4HU=
+
+Name: system/bin/upmsg.sh
+SHA1-Digest: 16eBQ3ZkaQnTRZphJAMvZqtZidQ=
+
+Name: system/bin/dumpsys
+SHA1-Digest: lZoc6jjMj3CRz+xfVznAJu/9pSA=
+
+Name: system/b2g/webapps/fm.gaiamobile.org/application.zip
+SHA1-Digest: DtHKAPtzx6nC8/V2WMwZdK+PpMM=
+
+Name: system/bin/fm_qsoc_patches
+SHA1-Digest: S0yTM33lTn9eAGqszhOxcrC57w8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/firefox/platform.js
+SHA1-Digest: n7NWTPoeKZNSI5JBRKbtJZ1cZA0=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-vec.properties
+SHA1-Digest: SRBLqylP0pUjl1QiGEax+HJ5LqE=
+
+Name: system/fonts/SourceSansPro-SemiboldIt.ttf
+SHA1-Digest: JKRr1f6E16dOAUQlgddwPG6UbX4=
+
+Name: system/lib/libtinyxml.so
+SHA1-Digest: VzAkP0uHGHetvn4UEQC46VXlTpw=
+
+Name: system/b2g/Throbber-small.gif
+SHA1-Digest: tgihcra4+UqOsnNkc8UirbMYEPU=
+
+Name: system/etc/firmware/yamato_pm4.fw
+SHA1-Digest: jPjmNerswYKpG85a0+dgKunBM7Q=
+
+Name: system/etc/security/cacerts/524d9b43.0
+SHA1-Digest: k2297HCYvN3BAhcl4kjnmOImy4g=
+
+Name: system/etc/security/cacerts/1eb37bdf.0
+SHA1-Digest: iEZtf6Bn7/kWs6HdB0tR9qNkl1I=
+
+Name: system/bin/hci_qcomm_init
+SHA1-Digest: /i+koF17kDbJ5vfGMs+4g1KypVE=
+
+Name: system/bin/logwrapper
+SHA1-Digest: adURa3IBiXQ0FJM+g2F2Psf/xRY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-fi.properties
+SHA1-Digest: sNgaXizsVsscDRuIb3whkN7bcEg=
+
+Name: system/etc/security/cacerts/455f1b52.0
+SHA1-Digest: kAWSB8ILogPZzBtuKBpjQvO6wGU=
+
+Name: system/etc/security/cacerts/03e16f6c.0
+SHA1-Digest: NU+kXb+8/njmA2M/T0gBfUiAMw4=
+
+Name: system/etc/permissions/android.hardware.touchscreen.multitouch.j
+ azzhand.xml
+SHA1-Digest: +jpP1GhT6HwDfDHhPbF4fqQTwB8=
+
+Name: system/bin/ftmdaemon_qca
+SHA1-Digest: SqFpv5YvHrk29lmdqGSyb4tUJUc=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ka.properties
+SHA1-Digest: n+lAqg6GD+bDML30Za/6KkPmrPM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/splash.png
+SHA1-Digest: V7SfArLCMfcdxzYrM+erCkpSjc8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-pa.properties
+SHA1-Digest: ezBNgd//1yhnxHPp2WYTGeS8jRw=
+
+Name: system/lib/egl/egl.cfg
+SHA1-Digest: y/87VoK0H7VIrFPbmtXvdY1n6gA=
+
+Name: system/lib/libaudioflinger.so
+SHA1-Digest: vSlRbocP351ltHlptAWPCWIdXFA=
+
+Name: system/usr/keylayout/Generic.kl
+SHA1-Digest: q2AUFn1X7lmXfG6bHcE6bxl9sbs=
+
+Name: system/etc/security/cacerts/11a09b38.0
+SHA1-Digest: R669axPhbXAdwOxMeYoDQernEpI=
+
+Name: system/etc/firmware/ath6k/AR6003/hw2.1.1/utf.bin
+SHA1-Digest: GqNrtuBsxEDC4oKofRMlDPvBkto=
+
+Name: system/etc/security/cacerts/c527e4ab.0
+SHA1-Digest: zRMmakm1sS3WLz+jAxVfL05XL0k=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-os.properties
+SHA1-Digest: so3yvFhh1TlGpSg0XLX1hnTdOlg=
+
+Name: system/lib/libQWiFiSoftApCfg.so
+SHA1-Digest: CQR87y9MbQv8eVrtnxbxrDxt+ow=
+
+Name: system/bin/adb
+SHA1-Digest: f0wyCxmO9hvhWW3WiYK9G2wysNM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-sr-el.properties
+SHA1-Digest: tPD3waY4IhdBHnfJYgA8Ydu0unA=
+
+Name: system/bin/dbus-daemon
+SHA1-Digest: TsFtrQdxNS3SD4nf8dbKf4VFNHs=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/install.js
+SHA1-Digest: GGRlC48giE/RaxuJDti3qWe7VHM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-cy.properties
+SHA1-Digest: /4Hc7a38PFBcL8g+JZfjPMy8y54=
+
+Name: system/lib/libext2fs.so
+SHA1-Digest: mPkjRnbZ8j5hhAE3wq7dhovO2CE=
+
+Name: system/lib/libnetmgr.so
+SHA1-Digest: 0EqMi+yOaJs4GnQmlPvIyrF1tck=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/imag
+ e/wmf.png
+SHA1-Digest: ONGPqHDnI5vhsDINYaZF5ipV6Og=
+
+Name: system/etc/security/cacerts/95aff9e3.0
+SHA1-Digest: 1GRiRyM4dxD3loVZew6tSzCwVBY=
+
+Name: system/lib/libqc-opt.so
+SHA1-Digest: +/MIMIQp7rymnePPhSWdHxN0+Dw=
+
+Name: system/bin/ObbFile_test
+SHA1-Digest: b5KZeuWxunLPSdUtf3stKXsn+00=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ast.properties
+SHA1-Digest: nedgCJmxpPaGjq23chtUyLnuGdE=
+
+Name: system/fonts/SourceSansPro-BoldIt.ttf
+SHA1-Digest: sZp9AsMUeSWyh9p23T1w+OH7IN8=
+
+Name: system/etc/security/cacerts/cdaebb72.0
+SHA1-Digest: boCUiF4OQ/Bc6b9xuzVVDs8BBkk=
+
+Name: system/lib/libOmxAacDec.so
+SHA1-Digest: lLhg/nnRxJRsMQ2svADwnHMxtnM=
+
+Name: system/bin/ast-mm-vdec-omx-test7k
+SHA1-Digest: HIZL+symY7sS/utnxka3Vi4pAGQ=
+
+Name: system/etc/security/cacerts/8f7b96c4.0
+SHA1-Digest: lDZRYJyvALtGjuqSKR0e/O5iFq0=
+
+Name: system/bin/getlogtofile
+SHA1-Digest: 8mKDzozA2m0lW3FLfsXMjamXV6M=
+
+Name: system/lib/egl/libGLESv2_adreno200.so
+SHA1-Digest: vGJtnKc+0+tOfs4KvYY9VeFhoD8=
+
+Name: system/lib/libext2_blkid.so
+SHA1-Digest: h47639ngeZdIOAJrCnDEFjlYZmA=
+
+Name: system/bin/akmd8962
+SHA1-Digest: SkjWsO3zYwDcLQ0JFw0yjZiwc3I=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/stylesheets/images/system-search.gif
+SHA1-Digest: Ckj7vSvwDUDh5dIbwz78zHpklLM=
+
+Name: system/usr/keylayout/Vendor_045e_Product_028e.kl
+SHA1-Digest: 5vqCZTOVkoSpc0kmFfaNUhf5FbE=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-map-bms.properties
+SHA1-Digest: qP/8dc0yaIr1zbcKZmh94K6verU=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/MobileFrontend/javascripts/banner.js
+SHA1-Digest: 9h3A8fK0sBsCiXkMzZWuVeAfCuM=
+
+Name: system/bin/bugreport
+SHA1-Digest: IRfVhIFYvBijHgLP/X09hkIuvHk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-is.properties
+SHA1-Digest: x64jvFj66A8jy4Hy4/xoCvvelkc=
+
+Name: system/lib/libOmxAacEnc.so
+SHA1-Digest: 1qv96zarPezK0VomZy76ZWYlY84=
+
+Name: system/lib/libcurl.so
+SHA1-Digest: INjUbwXYe6ONPppyfyVIoCvYok0=
+
+Name: system/lib/egl/libGLES_android.so
+SHA1-Digest: I1o3D4X9LzCOD9yWK5nKaV57EdE=
+
+Name: system/etc/permissions/android.hardware.telephony.cdma.xml
+SHA1-Digest: BroZo2jMF0K+opvTGO5js54hm4c=
+
+Name: system/lib/libstagefright_avc_common.so
+SHA1-Digest: AdIlplpcPKAxJ+lSZI3iq4IUTz8=
+
+Name: system/lib/libchromatix_mt9p012_default_video.so
+SHA1-Digest: ZrPgKr0X3iE/JoD6tn88eKP6V1A=
+
+Name: system/lib/modules/lcd.ko
+SHA1-Digest: H7sZ/btBYkIPkvHKn6vy2EVyK9U=
+
+Name: system/lib/libquipc_os_api.so
+SHA1-Digest: 9imOhiXfeh2MCfGIzTL80MuOcXY=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/leaflet/leaflet-src.js
+SHA1-Digest: 1Lrh6nJbICosjSHe61tp1IvEnKA=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-es-formal.properties
+SHA1-Digest: ERgpTEYIKNl22seB5B1NfJfc37M=
+
+Name: system/etc/security/cacerts/dbc54cab.0
+SHA1-Digest: mLY39lqUQs7ml8zsoOpALdtZjMk=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/css/
+ image/ios/toolbar-back.png
+SHA1-Digest: 89HnN7/i6zwL4S385epsgu7WI/s=
+
+Name: system/lib/libmmipstreamutils.so
+SHA1-Digest: v1Sj9opLMBcccVG4u+wZdUFFMg0=
+
+Name: system/bin/mm-adec-omxaac-test
+SHA1-Digest: smTdRdummITGeMggz6OipZRbqmU=
+
+Name: system/lib/libchromatix_s5k4e1_preview.so
+SHA1-Digest: ESc/GV22BjBxNIm2mhIk8+cz+CY=
+
+Name: system/lib/modules/test-iosched.ko
+SHA1-Digest: 9AYSCWQVvd8wOUEoSdLuwxRr1/U=
+
+Name: system/etc/permissions/handheld_core_hardware.xml
+SHA1-Digest: F4hDcGHqWxsTh4I+siOHqZJtIlQ=
+
+Name: system/lib/libdiskconfig.so
+SHA1-Digest: RWZJ6Hm2njVtvgVJZNTjQeRvWTI=
+
+Name: system/xbin/btool
+SHA1-Digest: 6nA5tNTqFp4v/5sbddNzFSzCtNQ=
+
+Name: system/xbin/cpueater
+SHA1-Digest: YUg6FNa+DczpM5dxAsUBq/mgW+Q=
+
+Name: system/bin/killer
+SHA1-Digest: KP225IiAfqT+/Ldo0aBG5NE++OY=
+
+Name: system/b2g/precomplete
+SHA1-Digest: I9kFEpwDPiyD6La93lNvYVWo88k=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-no.properties
+SHA1-Digest: Od0a+x00OyOsiPNGC/umkvJNfy4=
+
+Name: system/xbin/scotest
+SHA1-Digest: gQt8F6KCpiondXCPGWePcGFVa6I=
+
+Name: system/bin/mm-aenc-omxamr-test
+SHA1-Digest: GAe1lR1An7NjPlFtfwYeIxu8Wbk=
+
+Name: system/fonts/DroidSerif-BoldItalic.ttf
+SHA1-Digest: 9yrTa21bS7lrxMqVUy9FELRQ5WM=
+
+Name: system/lib/libmmipstreamnetwork.so
+SHA1-Digest: 1JLq99KveuekhG69Ev1mKtPXEcE=
+
+Name: system/etc/security/cacerts/f58a60fe.0
+SHA1-Digest: 68/j3gHkt1C4pcp35lL5Y5cLsM8=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/js/l
+ ib/lawnchair/adapters/dom.js
+SHA1-Digest: r/N3skyR3CPV8ZyNc/iySx/bCLM=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-ia.properties
+SHA1-Digest: nxelN1RYbJHlSaNAKFLlnIUbiSs=
+
+Name: system/usr/keylayout/AVRCP.kl
+SHA1-Digest: QuW9bT29OeTZExCprXrP8pA3gzE=
+
+Name: system/etc/security/cacerts/5046c355.0
+SHA1-Digest: OQH1BPU6CROY/RgHEc+aJJM9Lcs=
+
+Name: system/b2g/webapps/calculator/update.webapp
+SHA1-Digest: Lp2Mq4tjrFDB5C2ZZ9uIQpysieA=
+
+Name: system/lib/libchromatix_mt9t013_preview.so
+SHA1-Digest: IJZ3zIodEf1qauTayldT9Ww4wHo=
+
+Name: system/etc/security/cacerts/3a3b02ce.0
+SHA1-Digest: SQgeiwC1dSnuF8xaVn3NAriZV0M=
+
+Name: system/etc/security/cacerts/5a5372fc.0
+SHA1-Digest: Fb0tYUiGRziyUpyHHetf0/rTWWU=
+
+Name: system/etc/security/cacerts/9685a493.0
+SHA1-Digest: uQOYnTRtD38Rh9THdcalO+4cPsI=
+
+Name: system/bin/tcmd_app
+SHA1-Digest: NZeX9d+yBFsHGKQWf0LrG9/nLHg=
+
+Name: system/b2g/webapps/wikipedia/cache/WikipediaMobileFirefoxOS/mess
+ ages/messages-kk-cyrl.properties
+SHA1-Digest: S4dvitNTe7Z8dJ6aRgtkigqhgVU=
+
